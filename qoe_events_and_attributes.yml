@@ -1,0 +1,51 @@
+watchContentStart:
+  ["loggingVersion", "userIdentifier", "session_id", "uuid", "deviceTsn", "appVersionName", "osVersion", "videoPlayer",
+    "sessionType", "streamType", "videoSource", "connectionMode", "connection", "channelId", "channelNum",
+    "channelCallSign", "contentId", "contentTitle", "collectionId", "collectionTitle", "startTime"]
+
+sessionCreationStarted:
+  ["loggingVersion", "userIdentifier", "session_id", "uuid", "deviceTsn", "appVersionName", "osVersion", "videoPlayer",
+    "sessionType", "streamType", "videoSource", "connectionMode", "connection", "channelId", "channelNum",
+    "channelCallSign", "contentId", "contentTitle", "collectionId", "collectionTitle"]
+
+watchContentEnd:
+  [ "loggingVersion", "userIdentifier", "session_id", "uuid", "deviceTsn", "appVersionName", "osVersion", "videoPlayer",
+    "sessionType", "streamType", "videoSource", "connectionMode", "connection", "channelId", "channelNum",
+    "channelCallSign", "contentId", "contentTitle", "collectionId", "collectionTitle", "startTime", "avgVideoBitrate",
+    "avgNetworkBitrate", "videoFramesPresented", "videoFramesDropped", "videoBufferingTime", "videoBufferingCount",
+    "videoStallingTime", "videoStallingCount", "videoPlayingTime", "videoPlayingCount", "videoPausingTime",
+    "videoPausingCount", "videoTrickplayingTime" ,"status", "reason", "endReason", "watchContentTransaction"]
+
+streamingStart:
+  ["loggingVersion", "userIdentifier", "session_id", "uuid", "deviceTsn", "appVersionName", "osVersion", "videoPlayer",
+    "sessionType", "streamType", "videoSource", "connectionMode", "connection", "channelId", "channelNum",
+    "channelCallSign", "contentId", "contentTitle", "collectionId", "collectionTitle", "startTime"]
+
+streamingEnd:
+  ["loggingVersion", "userIdentifier", "session_id", "uuid", "deviceTsn", "appVersionName", "osVersion", "videoPlayer",
+    "sessionType", "streamType", "videoSource", "connectionMode", "connection", "channelId", "channelNum",
+    "channelCallSign", "contentId", "contentTitle", "collectionId", "collectionTitle", "startTime", "avgVideoBitrate",
+    "avgNetworkBitrate", "videoFramesPresented", "videoFramesDropped", "videoBufferingTime", "videoBufferingCount",
+    "videoStallingTime", "videoStallingCount", "videoPlayingTime", "videoPlayingCount", "videoPausingTime",
+    "videoPausingCount", "videoTrickplayingTime" ,"status", "reason", "endReason"]
+
+mediaHealth:
+  ["loggingVersion", "userIdentifier", "session_id", "uuid", "deviceTsn", "appVersionName", "osVersion", "videoPlayer",
+    "sessionType", "streamType", "videoSource", "connectionMode", "connection", "channelId", "channelNum",
+    "channelCallSign", "contentId", "contentTitle", "collectionId", "collectionTitle", "startTime", "avgVideoBitrate",
+    "avgNetworkBitrate", "videoFramesPresented", "videoFramesDropped", "videoBufferingTime", "videoBufferingCount",
+    "videoStallingTime", "videoStallingCount", "videoPlayingTime", "videoPlayingCount", "videoPausingTime",
+    "videoPausingCount", "videoTrickplayingTime"]
+
+sessionCreated:
+  ["loggingVersion", "userIdentifier", "session_id", "uuid", "deviceTsn", "appVersionName", "osVersion", "startTime"]
+
+videoPlayerOpenStream:
+  ["loggingVersion", "userIdentifier", "session_id", "uuid", "deviceTsn", "appVersionName", "osVersion", "startTime"]
+
+firstFrame:
+  ["loggingVersion", "userIdentifier", "session_id", "uuid", "deviceTsn", "appVersionName", "osVersion", "startTime"]
+
+playbackQoeEvents:
+  ["watchContentStart", "streamingStart", "sessionCreationStarted", "videoPlayerOpenStream", "sessionCreated",
+   "firstFrame", "mediaHealth", "streamingEnd", "watchContentEnd"]

@@ -1,0 +1,33 @@
+from set_top_box.client_api.guide.en_us.labels import GuideLabels
+
+
+class SpanishGuideLabels(GuideLabels):
+    LBL_PROGRAM_OPTIONS_CREATE_ONEPASS = "Cree un OnePass para esta serie."
+    LBL_ONEPASS_WHISPER_TEXT = "Se ha creado un OnePass."
+    LBL_ONEPASS_WHISPER_UPDATE_TEXT = "Su OnePass ha sido actualizada."
+    LBL_HDMI_OVERLAY = "HDMI Not Permitted"
+    LBL_LIVE_TV_VIEW_MODE = "watchvideo.screens.WatchLiveTvScreenView"
+    LBL_RECORD_OVERLAY = "RecordOverlay"
+    LBL_RECORDING_OPTIONS_OVERLAY = "RecordingOptionsOverlay"
+    LBL_RESUME_OVERLAY = "VODResumeStartOverOverlay"
+    LBL_CATCHUP_ICON = "hydra_icon_status_catch_up.png"
+    LBL_RECORD_OVERLAY_CATCHUP_ICON = "hydra_icon_source_socu"
+    LBL_RECORDING_NOW_ICON = 'hydra_icon_status_recording_now.png'
+    LBL_SOCU_PLAYBACK_SCREEN = "TvWatchStreamingVideoScreen"
+    LBL_ONEPASS_OPTIONS_OVERLAY = "OnePassOptionsOverlay"
+    LBL_MODIFY = "Modificar"
+    LBL_MODIFY_ONEPASS = "Modificar OnePass"
+    LBL_CREATE = "Cree"
+    LBL_ONEPASS_AND_RECORDING_OPTIONS = "OnePass & Recording Options"
+    LBL_USE_THESE_OPTIONS = "Utilizar estas opciones OnePass"
+    LBL_CREATE_ONEPASS_SUBSTRING = "Crear OnePass"
+    LBL_CREATE_ON_OPTIONS_OVERLAY = "Crear"
+    LBL_WATCH_NOW = "Ver ahora"
+    LBL_RESUME_PLAYING = "Continuar con la reproducciÃ³n"
+    LBL_STARTOVER = "Iniciar nuevamente desde el principio"
+    LBL_MODIFY_RECORDING = "Modificar la grabaciÃ³n"
+    LBL_PROGRAM_OPTIONS_RECORD_EPISODE = "Grabar solo este episodio"
+    LBL_RECORD = "Grabar "
+    LBL_RECORD_STRING = "Grabar"
+    LBL_PROGRAM_OPTIONS_RECORD_EPISODE_WITH_THESE_OPTIONS = "Grabe este episodio con estas opciones."
+    LBL_CANCEL = "Cancelar"

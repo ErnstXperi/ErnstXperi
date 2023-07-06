@@ -1,0 +1,19 @@
+#supported features
+all:
+  - iplinear
+  - socu
+  - ndvr
+  - vod
+telus:
+  - iplinear
+  - ndvr
+metronet:
+  - iplinear
+  - socu
+  - ndvr
+blueridge:
+  - iplinear
+  - vod
+mediacom:
+  - iplinear
+  - vod

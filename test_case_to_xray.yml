@@ -1,0 +1,4916 @@
+test_new_unentitled_channel:
+  jira_id:
+    - XRAYS-13
+test_10195352_verify_favorite_channels_panel_watch_livetv:
+  jira_id:
+  - FRUM-101
+test_10195352_verify_favorite_channels_panel_watch_recording:
+  jira_id:
+  - FRUM-378
+test_10195352_verify_favorite_channels_panel_watch_socu:
+  jira_id:
+  - FRUM-71
+test_10195352_verify_favorite_channels_panel_watch_vod:
+  jira_id:
+  - FRUM-395
+test_10195355_favorites_panel_press_ok_selection_for_jump_channel_my_shows_recording:
+  jira_id:
+  - FRUM-32971
+test_10195355_favorites_panel_press_ok_selection_for_live_tv:
+  jira_id:
+  - FRUM-32971
+test_10195355_favorites_panel_press_ok_selection_for_live_tv_jump_channel:
+  jira_id:
+  - FRUM-32971
+test_10195355_favorites_panel_press_ok_selection_my_shows_recording:
+  jira_id:
+  - FRUM-768
+test_10195355_favorites_panel_press_ok_selection_socu_channel:
+  jira_id:
+  - FRUM-32971
+test_10195355_favorites_panel_press_ok_selection_socu_channel_jump_channel:
+  jira_id:
+  - FRUM-32971
+test_10195361_favorites_panel_press_back:
+  jira_id:
+  - FRUM-803
+test_10195404_verify_favorite_panel_timeout:
+  jira_id:
+  - FRUM-859
+test_10196841_change_Subtitle_CC_Language:
+  jira_id:
+  - FRUM-672
+test_10196843_verify_description_of_change_subtitle_and_cc_language:
+  jira_id:
+  - FRUM-825
+test_10196880_apps_and_games_navigate_by_GA_C2C:
+  jira_id:
+  - FRUM-332
+test_10197100_verify_behaviour_of_menu_button_on_appletv:
+  jira_id:
+  - FRUM-50425
+test_10197270_verify_cc_rendered_when_ON:
+  jira_id:
+  - FRUM-843
+test_10197270_verify_cc_rendered_when_turned_ON_via_LiveTV:
+  jira_id:
+  - FRUM-1185
+test_10197271_verify_cc_not_rendered_when_OFF:
+  jira_id:
+  - FRUM-713
+test_10197337_verify_trickplay_playpause_icon_is_focused:
+  jira_id:
+  - FRUM-880
+test_10197338_verify_trickplay_rewind_icon_is_focused:
+  jira_id:
+  - FRUM-97
+test_10197339_verify_trickplay_forward_icon_is_focused:
+  jira_id:
+  - FRUM-98
+test_10200192_validate_pause_button_behavior:
+  jira_id:
+  - FRUM-856
+test_10200218_validate_stop_button_behavior_pig_disabled:
+  jira_id:
+  - FRUM-948
+test_10200218_validate_stop_button_behavior_pig_enabled:
+  jira_id:
+  - FRUM-948
+test_10201523_verify_play_mode_in_LiveTV_by_GA_C2C:
+  jira_id:
+  - FRUM-335
+test_10201997_vod_actions_voice_c2c:
+  jira_id:
+  - FRUM-54014
+test_10202028_verify_resume_mode_in_LiveTV_by_GA_C2C:
+  jira_id:
+  - FRUM-336
+test_10202053_verify_pause_mode_in_LiveTV_by_GA_C2C:
+  jira_id:
+  - FRUM-337
+test_10202075_verify_stop_mode_in_LiveTV_by_GA_C2C:
+  jira_id:
+  - FRUM-338
+test_102629_grid_Guide_GUIDE:
+  jira_id:
+  - FRUM-143
+test_103091_guide_guidebutton:
+  jira_id:
+  - FRUM-397
+test_10464399_purchase_pin_from_body_config_to_feature_status[False-False-NO_REQ-purchasePin-supportsPurchasePin-purchasePin]:
+  jira_id:
+  - FRUM-663
+test_10464399_purchase_pin_from_body_config_to_feature_status[False-True-NO_REQ-purchasePin-supportsPurchasePin-purchasePin]:
+  jira_id:
+  - FRUM-738
+test_10464399_purchase_pin_from_body_config_to_feature_status[True-False-NO_REQ-purchasePin-supportsPurchasePin-purchasePin]:
+  jira_id:
+  - FRUM-823
+test_10464399_purchase_pin_from_body_config_to_feature_status[True-True-NO_REQ-purchasePin-supportsPurchasePin-purchasePin]:
+  jira_id:
+  - FRUM-885
+test_10464412_socu_from_body_config_to_feature_status[False-False-NO_REQ-clientsocu-supportsSocu-clientSocu]:
+  jira_id:
+  - FRUM-8101
+test_10464412_socu_from_body_config_to_feature_status[False-True-NO_REQ-clientsocu-supportsSocu-clientSocu]:
+  jira_id:
+  - FRUM-8100
+test_10464412_socu_from_body_config_to_feature_status[True-False-NO_REQ-clientsocu-supportsSocu-clientSocu]:
+  jira_id:
+  - FRUM-1001
+test_10464412_socu_from_body_config_to_feature_status[True-True-NO_REQ-clientsocu-supportsSocu-clientSocu]:
+  jira_id:
+  - FRUM-929
+test_10464414_voice_from_body_config_to_feature_status[False-False-NO_REQ-voice-supportsVoiceControl-voiceControl]:
+  jira_id:
+  - FRUM-1006
+test_10464414_voice_from_body_config_to_feature_status[False-True-NO_REQ-voice-supportsVoiceControl-voiceControl]:
+  jira_id:
+  - FRUM-954
+test_10464414_voice_from_body_config_to_feature_status[True-False-NO_REQ-voice-supportsVoiceControl-voiceControl]:
+  jira_id:
+  - FRUM-853
+test_10464414_voice_from_body_config_to_feature_status[True-True-NO_REQ-voice-supportsVoiceControl-voiceControl]:
+  jira_id:
+  - FRUM-662
+test_10464416_ipppv_from_body_config_to_feature_status[False-False-NO_REQ-ipppv-ipPayPerView-ipppv]:
+  jira_id:
+  - FRUM-8097
+test_10464416_ipppv_from_body_config_to_feature_status[False-True-NO_REQ-ipppv-ipPayPerView-ipppv]:
+  jira_id:
+  - FRUM-8096
+test_10464416_ipppv_from_body_config_to_feature_status[True-False-NO_REQ-ipppv-ipPayPerView-ipppv]:
+  jira_id:
+  - FRUM-694
+test_10464416_ipppv_from_body_config_to_feature_status[True-True-NO_REQ-ipppv-ipPayPerView-ipppv]:
+  jira_id:
+  - FRUM-737
+test_frum_121663_verify_ott_starts_from_streaming_options_overlay:
+  jira_id:
+  - FRUM-121663
+test_frum_136521_verify_socu_playback_starts_from_streaming_options_overlay:
+  jira_id:
+  - FRUM-136521
+test_frum_142679_verify_vod_playback_starts_from_streaming_options_overlay:
+  jira_id:
+  - FRUM-142679
+test_10465825_verify_scroll_back_watch_vod:
+  jira_id:
+  - FRUM-134
+test_10465826_verify_scroll_forward_watch_vod:
+  jira_id:
+  - FRUM-135
+test_105147819_pressing_home_to_my_shows:
+  jira_id:
+  - FRUM-342
+test_106822_verify_PC_config_updated_clear_data:
+  jira_id:
+  - FRUM-106822
+test_107332670_prediction_bar_press_select_no_recording_no_providers_is_live:
+  jira_id:
+  - FRUM-309
+test_107332681_prediction_bar_press_select_recording_providers_is_live:
+  jira_id:
+  - FRUM-320
+test_107332683_prediction_bar_press_select_recording_no_providers_is_live:
+  jira_id:
+  - FRUM-331
+test_108012_108013_108014_black_screen_issue:
+  jira_id:
+  - FRUM-108014
+test_10838844_11400982_C601_C606_error_validation:
+  jira_id:
+  - FRUM-1010
+test_10838875_c228_prediction_bar:
+  jira_id:
+  - FRUM-7111
+test_10838901_watch_channel_number_by_GA_C2C:
+  jira_id:
+  - FRUM-691
+test_10838903_switch_channel_by_number_by_GA_C2C:
+  jira_id:
+  - FRUM-344
+test_10838909_no_network_screen:
+  jira_id:
+  - FRUM-7088
+test_10839951_favorites_panel_press_and_hold_ok:
+  jira_id:
+  - FRUM-102
+test_10839954_press_ok_on_action_on_channel_options_overlay:
+  jira_id:
+  - FRUM-992
+test_10839955_remove_favorite_channels:
+  jira_id:
+  - FRUM-700
+test_10839958_adult_content_constraint_verification:
+  jira_id:
+  - FRUM-925
+test_108405148_verify_exit_button_exits_to_live_tv_from_socu:
+  jira_id:
+  - FRUM-32997
+test_10840631_verify_changes_cc_across_app:
+  jira_id:
+  - FRUM-226
+test_10841794_vod_subtitle_trick_mode:
+  jira_id:
+  - FRUM-1003
+test_108742_verify_hdmi_not_permitted_overlay_not_seen:
+  jira_id:
+  - FRUM-108742
+test_109383_search_and_verify_movie_title:
+  jira_id:
+  - FRUM-38
+  suite: sanity
+test_11108204_verify_ipqam_preference_when_qam_preferred:
+  jira_id:
+  - FRUM-907
+test_11108205_verify_ipqam_preference_when_ip_preferred:
+  jira_id:
+  - FRUM-808
+test_11108206_verify_ipqam_preference_when_no_preference:
+  jira_id:
+  - FRUM-792
+test_11112180_continue_watching_vod:
+  jira_id:
+  - FRUM-1413
+test_11113321_guide_header_press_select_deeplink_into_app:
+  jira_id:
+  - FRUM-668
+test_11113322_guide_header_press_select_top_level_app:
+  jira_id:
+  - FRUM-829
+test_11113324_guide_header_position_in_list:
+  jira_id:
+  - FRUM-684
+test_111159_record_overlay_movie:
+  jira_id:
+  - FRUM-400
+test_11116751_verify_tips_and_tricks_preview_pane:
+  jira_id:
+  - FRUM-54015
+test_11116760_tips_tricks_youtube_deeplinking_not_supported_device:
+  jira_id:
+  - FRUM-667
+test_11121754_guide_view_by_time:
+  jira_id:
+  - FRUM-710
+test_11121754_tv_guide_view_guide_now_by_GA_C2C:
+  jira_id:
+  - FRUM-345
+test_11121754_view_guide_now_tv_guide_by_GA_C2C:
+  jira_id:
+  - FRUM-710
+test_11121756_channel_name_tv_guide_by_GA_C2C:
+  jira_id:
+  - FRUM-743
+test_11121756_tv_guide_view_guide_channel_name_by_GA_C2C:
+  jira_id:
+  - FRUM-346
+test_11121757_channel_number_tv_guide_by_GA_C2C:
+  jira_id:
+  - FRUM-959
+test_11121757_tv_guide_view_guide_channel_number_by_GA_C2C:
+  jira_id:
+  - FRUM-347
+test_11121760_channel_number_now_tv_guide_by_GA_C2C:
+  jira_id:
+  - FRUM-686
+test_11121760_tv_guide_view_guide_channel_number_now_by_GA_C2C:
+  jira_id:
+  - FRUM-686
+test_11121761_channel_number_and_time_tv_guide_by_GA_C2C:
+  jira_id:
+  - FRUM-974
+test_11121857_vod_play_voice:
+  jira_id:
+  - FRUM-814
+test_11121891_navigate_closed_caption_verify_title:
+  jira_id:
+  - FRUM-353
+test_11124060_search_movie_recording:
+  jira_id:
+  - FRUM-777
+test_11124067_voice_play_live_tv:
+  jira_id:
+  - FRUM-930
+test_11124068_search_free_vod:
+  jira_id:
+  - FRUM-923
+test_11124140_fasu_phase2_disconnect_cancel_wait_7_min_connect:
+  jira_id:
+  - FRUM-934
+test_11124681_remote_setup_help:
+  jira_id:
+  - FRUM-687
+test_112048005_max_pre_roll_ad_not_fully_watched:
+  jira_id:
+  - FRUM-57736
+test_112048054_max_pre_roll_launching_my_shows_folder:
+  jira_id:
+  - FRUM-57741
+test_112048063_max_pre_roll_launching_series_screen_recordings:
+  jira_id:
+  - FRUM-57743
+test_112048085_max_pre_roll_launching_series_screen_watchlist:
+  jira_id:
+  - FRUM-57744
+test_113479_guide_default_channel_is_highlighted:
+  jira_id:
+  - FRUM-154
+test_113913_search_person_item:
+  jira_id:
+  - FRUM-116
+test_11400975_watch_stickiness_forward_stickiness_watched_half_of_the_recording:
+  jira_id:
+  - FRUM-821
+test_11400976_watch_stickiness_forward_stickiness_watched_the_beginning_of_recording:
+  jira_id:
+  - FRUM-720
+test_11400977_watch_stickiness_forward_stickiness_watched_recording_to_the_end:
+  jira_id:
+  - FRUM-961
+test_11400978_watch_stickiness_forward_stickiness_watched_recording_and_started_watch_next:
+  jira_id:
+  - FRUM-951
+test_11400979_c605_overlay_and_reconnect:
+  jira_id:
+  - FRUM-689
+test_11400980_c634_overlay_and_reconnect_after_foreground_event:
+  jira_id:
+  - FRUM-895
+test_11400981_c608_overlay_and_reconnect:
+  jira_id:
+  - FRUM-717
+test_11400982_c606_overlay_and_reconnect:
+  jira_id:
+  - FRUM-1010
+test_11400983_c630_overlay_and_reconnect:
+  jira_id:
+  - FRUM-862
+test_11400984_c631_overlay_and_reconnect:
+  jira_id:
+  - FRUM-702
+test_11400985_c628_overlay_and_reconnect:
+  jira_id:
+  - FRUM-755
+test_11400986_c629_overlay_and_reconnect:
+  jira_id:
+  - FRUM-807
+test_11400987_daily_call_error:
+  jira_id:
+  - FRUM-751
+test_114073_verify_past_guide:
+  jira_id:
+  - FRUM-399
+test_11678248_tivo_plus_play_xumo_partner_channel:
+  jira_id:
+  - FRUM-1444
+test_11678249_tivo_plus_play_revry_partner_channel:
+  jira_id:
+  - FRUM-1356
+test_11678250_tivo_plus_play_tastemade_partner_channel:
+  jira_id:
+  - FRUM-1352
+test_11678251_tivo_plus_play_loop_partner_channel:
+  jira_id:
+  - FRUM-734
+test_11678348_verify_watch_stickiness_in_my_shows_after_recording:
+  jira_id:
+  - FRUM-962
+test_11680802_subtitles_closed_caption_language_verify_title:
+  jira_id:
+  - FRUM-351
+test_11680803_language_audio_description_verify_title:
+  jira_id:
+  - FRUM-352
+test_11683498_verify_livetv_homebackground_streaming_after_reboot:
+  jira_id:
+  - FRUM-793
+test_11683499_branding_check:
+  jira_id:
+  - FRUM-62314
+test_11683500_verify_live_streaming_after_recording_playback:
+  jira_id:
+  - FRUM-103
+test_11687643_To_verify_screen_title_Closed_Caption_Preference:
+  jira_id:
+  - FRUM-350
+test_123456_throttle_internet_speed:
+  jira_id:
+  - FRUM-793
+test_124712_recording_options_validations:
+  jira_id:
+  - FRUM-405
+test_124958_parental_controls_PIN_check:
+  jira_id:
+  - FRUM-368
+test_12777388_verify_yellow_color_button_starts_socu_from_live_tv:
+  jira_id:
+  - FRUM-57755
+test_12782653_audio_only_channel:
+  jira_id:
+  - FRUM-57759
+test_12782655_info_banner_of_audio_only_channel:
+  jira_id:
+  - FRUM-54460
+test_12782657_verify_audio_only_trickplay_restrictions_pause:
+  jira_id:
+  - FRUM-978
+test_12782677_change_audio_track_of_audioonly_channel_from_info_banner:
+  jira_id:
+  - FRUM-58068
+test_12783901_promote_what_to_watch_grid_guide_footer_program_cell_press_select_top_to_wtw:
+  jira_id:
+  - FRUM-888
+test_12783902_promote_what_to_watch_grid_guide_footer_program_cell_press_select_wtw_filter:
+  jira_id:
+  - FRUM-770
+test_12783914_promote_what_to_watch_grid_guide_header_program_cell_press_select_top_to_wtw:
+  jira_id:
+  - FRUM-901
+test_12783915_promote_what_to_watch_grid_guide_header_program_cell_press_select_wtw_filter:
+  jira_id:
+  - FRUM-669
+test_12784017_promote_what_to_watch_grid_guide_banner_program_cell_press_select_top_to_wtw:
+  jira_id:
+  - FRUM-876
+test_12784054_promote_what_to_watch_slot_0_press_select_wtw_filter:
+  jira_id:
+  - FRUM-670
+test_12784094_promote_what_to_watch_hero_promotion_press_select_wtw_filter:
+  jira_id:
+  - FRUM-922
+test_12785342_netflix_program_screen_shown_on_netflix_series_asset:
+  jira_id:
+  - FRUM-696
+test_12786348_nDVR_Completed_Recordings_Verimatrixordefault_to_Widevineornative:
+  jira_id:
+  - FRUM-58069
+test_12786358_tivo_plus_terms_of_use_acceptance_overlay:
+  jira_id:
+  - FRUM-32933
+test_12790032_verify_message_functionality:
+  jira_id:
+  - FRUM-712
+  - FRUM-910
+test_12790362_movies_on_now_by_GA_C2C:
+  jira_id:
+  - FRUM-54017
+test_12793359_direct_play_from_search_live_tv_show:
+  jira_id:
+  - FRUM-857
+test_12793361_direct_play_from_search_ott_show:
+  jira_id:
+  - FRUM-898
+test_12793361_direct_play_from_search_socu_show:
+  jira_id:
+  - FRUM-898
+test_12793363_direct_play_from_search_vod_show:
+  jira_id:
+  - FRUM-871
+test_12793365_direct_play_from_search_show_without_sources:
+  jira_id:
+  - FRUM-782
+test_12830312_googleplay_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-729
+test_12932388_netflix_deeplinking_av_playback_episode:
+  jira_id:
+  - FRUM-924
+test_12932389_search_and_nav_starz_wtw_upcoming:
+  jira_id:
+  - FRUM-1008
+test_12932391_netflix_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-708
+test_12932392_netflix_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-733
+test_12932393_hulu_shallowlinking_av_playback_movie:
+  jira_id:
+  - FRUM-960
+test_12932394_hulu_shallowlinking_av_playback_series:
+  jira_id:
+  - FRUM-950
+test_12932395_hulu_shallowing_episode:
+  jira_id:
+  - FRUM-746
+test_12932396_vudu_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-817
+test_12934352_deeplink_vudu_from_prediction_bar:
+  jira_id:
+  - FRUM-761
+test_12934353_deeplink_vudu_from_may_also_like_screen:
+  jira_id:
+  - FRUM-760
+test_12934354_amazon_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-957
+test_12934355_amazon_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-758
+test_12934356_amazon_deeplinking_av_playback_episode:
+  jira_id:
+  - FRUM-848
+test_12934358_verify_long_key_press_info_season:
+  jira_id:
+  - FRUM-2489
+test_12938091_wtw_netflix_originals:
+  jira_id:
+  - FRUM-845
+test_12938092_uncheck_netflix_and_deeplink_from_search:
+  jira_id:
+  - FRUM-995
+test_12938093_vudu_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-917
+test_12938094_vudu_deeplinking_episode:
+  jira_id:
+  - FRUM-673
+test_12938251_deeplink_vudu_from_upcoming_prediction_bar:
+  jira_id:
+  - FRUM-747
+test_12938252_search_and_nav_googleplay_wtw_upcoming:
+  jira_id:
+  - FRUM-936
+test_12938881_starz_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-818
+test_12938882_starz_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-690
+test_12938883_starz_deeplinking_av_playback_episode:
+  jira_id:
+  - FRUM-827
+test_12940199_series_sccreen_nextflix_launch_fail:
+  jira_id:
+  - FRUM-838
+test_12940203_bail_button_on_netfix_series_search:
+  jira_id:
+  - FRUM-837
+test_13227053_audioonly_channel_non_recordable:
+  jira_id:
+  - FRUM-757
+test_13511482_new_feature_overlay:
+  jira_id:
+  - FRUM-54000
+test_13512695_verify_content_provider_app_values:
+  jira_id:
+  - FRUM-949
+test_13525044_validate_one_pass_and_recording_options_in_settings:
+  jira_id:
+  - FRUM-846
+test_13525045_hide_adult_content:
+  jira_id:
+  - FRUM-942
+test_13525046_whether_adult_assets_are_there_in_my_rentals:
+  jira_id:
+  - FRUM-804
+test_13526742_grid_guide_banner_press_select_live_tv_station_subscribed_station_id:
+  jira_id:
+  - FRUM-826
+test_13526742_grid_guide_banner_press_select_live_tv_station_subscribed_tivo_plus_station_id:
+  jira_id:
+  - FRUM-826
+test_13526742_grid_guide_banner_press_select_live_tv_station_unsubscribed_station_id:
+  jira_id:
+  - FRUM-826
+test_13530089_direct_play_from_search_recording_no_providers_live:
+  jira_id:
+  - FRUM-787
+test_13530094_direct_play_from_search_series_no_recording_providers_not_live:
+  jira_id:
+  - FRUM-674
+test_13530290_verify_download_error_yukon_server:
+  jira_id:
+  - FRUM-854
+test_13532245_throttle_bandwidth_700_kbps:
+  jira_id:
+  - FRUM-972
+test_14095628_verify_ndvr_ccm_long_term_storage_recording_playback:
+  jira_id:
+  - FRUM-1272
+test_14377497_direct_play_from_search_episode_recording_providers_live:
+  jira_id:
+  - FRUM-1291
+test_14378054_direct_play_from_search_movie_recording_no_providers_live:
+  jira_id:
+  - FRUM-1069
+test_14378735_verify_ndvr_icm_long_term_storage_recording_playback:
+  jira_id:
+  - FRUM-53999
+test_14378813_verify_dismiss_dimming_screen_button_back:
+  jira_id:
+  - FRUM-1149
+test_14378826_dismiss_dimming_and_go_to_guide:
+  jira_id:
+  - FRUM-1213
+test_14378870_verify_dimming_screen_and_osd_behavior:
+  jira_id:
+  - FRUM-1032
+test_14379319_verify_no_dimming_screen_while_watching_video:
+  jira_id:
+  - FRUM-1155
+test_14379357_verify_no_dimming_screen_when_returning_from_ott_with_back_btn:
+  jira_id:
+  - FRUM-1070
+test_14379900_verify_ndvrscreen_after_press_back_from_asset_playing:
+  jira_id:
+  - FRUM-1289
+test_14381055_show_my_recordings_navigate_by_GA_C2C:
+  jira_id:
+  - FRUM-1198
+test_14382896_search_and_record_series_recording_by_GA_C2C:
+  jira_id:
+  - FRUM-1176
+test_14383646_verify_left_tile_display_on_leftbutton_press_when_not_in_first_position:
+  jira_id:
+  - FRUM-1034
+test_14385607_record_movie_recording_by_GA_C2C:
+  jira_id:
+  - FRUM-1193
+test_14385607_record_series_recording_by_GA_C2C:
+  jira_id:
+  - FRUM-1193
+test_14385615_search_and_record_movie_recording_by_GA_C2C:
+  jira_id:
+  - FRUM-1056
+test_14386448_verify_jump_channel_launch_from_guide_and_appsandgames:
+  jira_id:
+  - FRUM-1062
+test_14386461_trigger_EAS_alert_on_livtev:
+  jira_id:
+  - FRUM-1091
+test_14386463_verify_that_eas_message_is_not_shown_when_user_in_ott:
+  jira_id:
+  - FRUM-1307
+test_14386465_verify_that_eas_message_is_not_shown_when_user_is_in_screensaver:
+  jira_id:
+  - FRUM-1118
+test_14386466_verify_that_EAS_message_is_shown_when_user_is_in_Screensaver:
+  jira_id:
+  - FRUM-50388
+test_14386478_verify_if_recordings_are_not_deleted_after_hours_from_myshows:
+  jira_id:
+  - FRUM-1296
+test_14386480_footer_icon_user_idle_animation:
+  jira_id:
+  - FRUM-1133
+test_14386481_footer_icon_user_active_animation:
+  jira_id:
+  - FRUM-1285
+test_14386483_footer_icon_user_idle_animation:
+  jira_id:
+  - FRUM-1284
+test_14386484_footer_icon_user_active_animation:
+  jira_id:
+  - FRUM-1112
+test_14386508_trigger_EAS_alert_on_screensaver:
+  jira_id:
+  - FRUM-1280
+test_14388807_verify_crash_not_seen_in_wtw:
+  jira_id:
+  - FRUM-1088
+test_14388816_verify_eas_message_in_notification_panel:
+  jira_id:
+  - FRUM-1127
+test_14389288_verify_eas_message_in_device_settings:
+  jira_id:
+  - FRUM-1102
+test_14391024_verify_livetv_playback_when_cache_advances_past_pause_point:
+  jira_id:
+  - FRUM-1403
+test_14391657_googleplay_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-1108
+test_14391789_verify_stop_streaming_tv_on_off_while_playing_recording:
+  jira_id:
+  - FRUM-1077
+test_14391793_verify_stop_streaming_tv_on_off_while_socu_playback:
+  jira_id:
+  - FRUM-1332
+test_14707_c614_overlay_and_reconnect:
+  jira_id:
+  - FRUM-14707
+test_14714_c617_overlay_and_reconnect:
+  jira_id:
+  - FRUM-14714
+test_15140_c690_overlay_and_reconnect:
+  jira_id:
+  - FRUM-15140
+test_152179_full_info_banner_liveTV:
+  jira_id:
+  - FRUM-60188
+test_157864_verify_pause_mode_in_LiveTV:
+  jira_id:
+  - FRUM-105
+test_172039_myshows_layout:
+  jira_id:
+  - FRUM-118
+test_172114_verify_content_all_shows:
+  jira_id:
+  - FRUM-119
+test_17791_c671_overlay_and_reconnect:
+  jira_id:
+  - FRUM-17791
+test_17802_c675_overlay_and_reconnect:
+  jira_id:
+  - FRUM-17802
+test_17873_c674_overlay_and_reconnect:
+  jira_id:
+  - FRUM-17873
+test_186293_verify_banner_and_trickplay_entering_LiveTV:
+  jira_id:
+  - FRUM-104
+test_19778901_trigger_eas_alert_on_ott_app:
+  jira_id:
+  - FRUM-1052
+test_19779075_send_ga_on_eas_screen:
+  jira_id:
+  - FRUM-1298
+test_19779803_verify_start_over_option_for_recording_having_pause_point:
+  jira_id:
+  - FRUM-1120
+test_19782326_verify_expired_message_is_not_displayed:
+  jira_id:
+  - FRUM-1162
+test_19782350_part1_verify_trickplay_timeout_while_FFWDx1:
+  jira_id:
+  - FRUM-1327
+test_19782350_part2_verify_trickplay_timeout_while_FFWDx1:
+  jira_id:
+  - FRUM-1327
+test_19782350_part3_verify_trickplay_timeout_while_FFWDx1:
+  jira_id:
+  - FRUM-1327
+test_19782408_verify_FFWD_to_live_resumes_playback:
+  jira_id:
+  - FRUM-1137
+test_19782934_verify_3rd_message_shown_after_dismissing_2_prev_ones:
+  jira_id:
+  - FRUM-1326
+test_19782947_verify_program_screen_reach_on_FFWD_till_end:
+  jira_id:
+  - FRUM-1203
+test_19783974_googleplay_deeplinking_episode:
+  jira_id:
+  - FRUM-1082
+test_202693203_netflix_strip_presence:
+  jira_id:
+  - FRUM-1136
+test_204422_jump_channel:
+  jira_id:
+  - FRUM-272
+test_20930780_inactivity_timeout_in_live_tv[True-True]:
+  jira_id:
+  - FRUM-1446
+test_20931420_playback_verification_with_youtube_in_background:
+  jira_id:
+  - FRUM-1074
+test_20931422_domain_token_expiration_interval:
+  jira_id:
+  - FRUM-1287
+test_20932922_status_message_in_guide_info_banner_for_nDVR_restricted_channel:
+  jira_id:
+  - FRUM-1319
+test_20932924_status_message_in_guide_info_banner_for_nDVR_restricted_offer:
+  jira_id:
+  - FRUM-1075
+test_20932925_no_record_button_on_guide_info_banner_for_nDVR_restricted_offer:
+  jira_id:
+  - FRUM-1084
+test_20932928_status_message_in_upcoming_airing_for_nDVR_restricted_offer_in_content_screen:
+  jira_id:
+  - FRUM-1236
+test_20932936_status_message_in_one_line_guide_for_nDVR_restricted_offer:
+  jira_id:
+  - FRUM-1208
+test_20932937_recording_not_permitted_on_info_banner_for_nDVR_restricted_channel:
+  jira_id:
+  - FRUM-1204
+test_20932938_recording_not_permitted_on_info_banner_for_nDVR_restricted_offer:
+  jira_id:
+  - FRUM-1248
+test_20932944_verify_livetv_stop_streaming_videowindow_off:
+  jira_id:
+  - FRUM-1301
+test_20932949_verify_stop_streaming_while_catchup_videowindow_off:
+  jira_id:
+  - FRUM-1083
+test_20933793_verify_play_mode_after_rewind:
+  jira_id:
+  - FRUM-1147
+test_20933835_guide_screen_verification:
+  jira_id:
+  - FRUM-1132
+test_20933920_verify_home_screen_is_stacked_on_guide:
+  jira_id:
+  - FRUM-1098
+test_20933933_deeplink_netflix_from_may_also_like_screen:
+  jira_id:
+  - FRUM-1262
+test_20933934_deeplink_starz_from_may_also_like_screen:
+  jira_id:
+  - FRUM-1345
+test_20933935_deeplink_hulu_from_may_also_like_screen:
+  jira_id:
+  - FRUM-1312
+test_20933936_deeplink_amazon_from_may_also_like_screen:
+  jira_id:
+  - FRUM-1302
+test_20933937_deeplink_google_play_from_may_also_like_screen:
+  jira_id:
+  - FRUM-1230
+test_20933984_verify_more_info_of_actor:
+  jira_id:
+  - FRUM-1232
+test_20934311_verify_highlight_on_recordings:
+  jira_id:
+  - FRUM-1309
+test_20941110_verify_ffwd_and_rwd_when_paused:
+  jira_id:
+  - FRUM-1306
+test_20941216_verify_hulu_app_is_not_installed:
+  jira_id:
+  - FRUM-1259
+test_20941217_verify_RWDx1_in_pause_mode:
+  jira_id:
+  - FRUM-1170
+test_20941218_verify_rewind:
+  jira_id:
+  - FRUM-1099
+test_20942227_verify_starz_app_is_not_installed:
+  jira_id:
+  - FRUM-1227
+test_20943730_verify_vudu_app_is_not_installed:
+  jira_id:
+  - FRUM-1169
+test_20943732_verify_netflix_app_is_not_installed:
+  jira_id:
+  - FRUM-1205
+test_20943733_verify_amazon_app_is_not_installed:
+  jira_id:
+  - FRUM-1299
+test_20949043_uncheck_vudu_and_deeplink_from_search:
+  jira_id:
+  - FRUM-1338
+test_20949499_enter_standby_and_wakeup_in_ftux:
+  jira_id:
+  - FRUM-1071
+test_20949500_game_controllers_full_automated_scenario:
+  jira_id:
+  - FRUM-1278
+test_20949865_uncheck_hulu_and_deeplink_from_search:
+  jira_id:
+  - FRUM-1177
+test_20950946_uncheck_amazon_and_deeplink_from_search:
+  jira_id:
+  - FRUM-1131
+test_20950947_uncheck_starz_and_deeplink_from_search:
+  jira_id:
+  - FRUM-1240
+test_20950948_uncheck_googleplay_and_deeplink_from_search:
+  jira_id:
+  - FRUM-1107
+test_20950989_verify_welcome_screen_user_idle:
+  jira_id:
+  - FRUM-1117
+test_20950996_verify_welcome_screen_dismiss_by_press_ok_button:
+  jira_id:
+  - FRUM-1138
+test_20951004_verify_welcome_screen_timeout:
+  jira_id:
+  - FRUM-1116
+test_20951058_search_vudu_live_and_upcoming:
+  jira_id:
+  - FRUM-1239
+test_20951059_search_netflix_live_and_upcoming:
+  jira_id:
+  - FRUM-1282
+test_20951081_search_googleplay_live_and_upcoming:
+  jira_id:
+  - FRUM-1214
+test_20951385_search_hulu_live_and_upcoming:
+  jira_id:
+  - FRUM-1315
+test_20951827_verify_liveTv_is_running_in_background_when_exit_from_wtw:
+  jira_id:
+  - FRUM-1183
+test_20951913_search_amazon_live_and_upcoming:
+  jira_id:
+  - FRUM-1322
+test_20952463_search_starz_live_and_upcoming:
+  jira_id:
+  - FRUM-1335
+test_20954167_verify_guide_data:
+  jira_id:
+  - FRUM-1194
+test_20954503_verify_guide_data_load_after_launching_OTT:
+  jira_id:
+  - FRUM-1051
+test_20957933_deeplink_hulu_from_prediction_bar:
+  jira_id:
+  - FRUM-1093
+test_20957934_deeplink_netflix_from_prediction_bar:
+  jira_id:
+  - FRUM-1095
+test_20957935_deeplink_amazon_from_prediction_bar:
+  jira_id:
+  - FRUM-1030
+test_20957936_deeplink_starz_from_prediction_bar:
+  jira_id:
+  - FRUM-1261
+test_20957938_deeplink_googleplay_from_prediction_bar:
+  jira_id:
+  - FRUM-1325
+test_20958257_verify_adult_folder_when_EAS_triggered:
+  jira_id:
+  - FRUM-1049
+test_20958660_verify_trickplay_actions_after_EAS_trigger:
+  jira_id:
+  - FRUM-1275
+test_20959161_verify_select_restart_now_and_check_service_login_date[FCM]:
+  jira_id:
+  - FRUM-1269
+test_20959161_verify_select_restart_now_and_check_service_login_date[NSR]:
+  jira_id:
+  - FRUM-1269
+test_20959168_verify_select_refresh_acc_and_usr_data_and_check_service_login_date[FCM]:
+  jira_id:
+  - FRUM-1293
+test_20959168_verify_select_refresh_acc_and_usr_data_and_check_service_login_date[NSR]:
+  jira_id:
+  - FRUM-1293
+test_20959170_verify_push_notification_ndvr_overlay[FCM]:
+  jira_id:
+  - FRUM-1283
+test_20959170_verify_push_notification_ndvr_overlay[NSR]:
+  jira_id:
+  - FRUM-1283
+test_20959229_launch_netflix_and_verify_lst_type_iid:
+  jira_id:
+  - FRUM-58052
+test_20959230_wtw_netflix_originals_and_verify_lst_type_iid:
+  jira_id:
+  - FRUM-53993
+test_20959231_launch_netflix_from_search_and_verify_lst_type_iid:
+  jira_id:
+  - FRUM-53994
+test_20959233_launch_netflix_from_gird_guide_and_verify_lst_type_iid:
+  jira_id:
+  - FRUM-53995
+test_20959234_launch_netflix_from_jump_channel_and_verify_lst_type_iid:
+  jira_id:
+  - FRUM-53996
+test_20959236_launch_netflix_from_prediction_bar_and_verify_lst_type_iid:
+  jira_id:
+  - FRUM-53997
+test_20959476_verify_push_notification_purchase_pin_not_shown_in_pc_settings[FCM-purchasePin-purchasePin]:
+  jira_id:
+  - FRUM-1331
+test_20959476_verify_push_notification_purchase_pin_not_shown_in_pc_settings[NSR-purchasePin-purchasePin]:
+  jira_id:
+  - FRUM-1331
+test_20959521_deeplink_netflix_from_upcoming_prediction_bar:
+  jira_id:
+  - FRUM-1217
+test_20959522_deeplink_amazon_from_upcoming_prediction_bar:
+  jira_id:
+  - FRUM-1168
+test_20959523_deeplink_starz_from_upcoming_prediction_bar:
+  jira_id:
+  - FRUM-1081
+test_20959524_deeplink_hulu_from_upcoming_prediction_bar:
+  jira_id:
+  - FRUM-1054
+test_20959525_deeplink_googleplay_from_upcoming_prediction_bar:
+  jira_id:
+  - FRUM-1094
+test_20959526_search_and_nav_amazon_wtw_upcoming:
+  jira_id:
+  - FRUM-1403
+test_20959527_search_and_nav_vudu_wtw_upcoming:
+  jira_id:
+  - FRUM-1050
+test_20959529_search_and_nav_netflix_wtw_upcoming:
+  jira_id:
+  - FRUM-1202
+test_20959530_search_and_nav_hulu_wtw_upcoming:
+  jira_id:
+  - FRUM-1266
+test_20959739_verify_playback_status_after_returning_from_other_apps:
+  jira_id:
+  - FRUM-1316
+test_20959886_voice_fast_feature_status_update[FCM-False-voice-voiceControl]:
+  jira_id:
+  - FRUM-1361
+test_20959886_voice_fast_feature_status_update[FCM-True-voice-voiceControl]:
+  jira_id:
+  - FRUM-1437
+test_20959886_voice_fast_feature_status_update[NSR-False-voice-voiceControl]:
+  jira_id:
+  - FRUM-1361
+test_20959886_voice_fast_feature_status_update[NSR-True-voice-voiceControl]:
+  jira_id:
+  - FRUM-1437
+test_20959892_ipppv_fast_feature_status_update[FCM-False-ipppv-ipppv]:
+  jira_id:
+  - FRUM-1329
+test_20959892_ipppv_fast_feature_status_update[FCM-True-ipppv-ipppv]:
+  jira_id:
+  - FRUM-1100
+test_20959892_ipppv_fast_feature_status_update[NSR-False-ipppv-ipppv]:
+  jira_id:
+  - FRUM-1329
+test_20959892_ipppv_fast_feature_status_update[NSR-True-ipppv-ipppv]:
+  jira_id:
+  - FRUM-1100
+test_20959896_socu_fast_feature_status_update[FCM-False-clientsocu-clientSocu]:
+  jira_id:
+  - FRUM-1341
+test_20959896_socu_fast_feature_status_update[FCM-True-clientsocu-clientSocu]:
+  jira_id:
+  - FRUM-1300
+test_20959896_socu_fast_feature_status_update[NSR-False-clientsocu-clientSocu]:
+  jira_id:
+  - FRUM-39241
+test_20959896_socu_fast_feature_status_update[NSR-True-clientsocu-clientSocu]:
+  jira_id:
+  - FRUM-1300
+test_21259775_create_onepass_and_verify_next_episodes_are_recording:
+  jira_id:
+  - FRUM-1087
+test_214969644_verify_behaviour_when_ott_app_is_not_installed:
+  jira_id:
+  - FRUM-1063
+test_214969646_verify_user_able_to_launch_tubitv_from_apps_and_games:
+  jira_id:
+  - FRUM-1186
+test_214989437_verify_launch_tubitv_from_jump_channel:
+  jira_id:
+  - FRUM-1195
+test_21557975_playback_netflix_content_for_longer_duration_and_verify_behavior_by_pressing_home:
+  jira_id:
+  - FRUM-1045
+test_21557978_detect_holes_in_guide_for_future_one_day:
+  jira_id:
+  - FRUM-1334
+test_21557978_detect_holes_in_guide_for_future_seven_day:
+  jira_id:
+  - FRUM-1334
+test_21557978_detect_holes_in_guide_for_future_three_day:
+  jira_id:
+  - FRUM-1334
+test_21557978_detect_holes_in_guide_for_past_one_day:
+  jira_id:
+  - FRUM-1334
+test_21557978_detect_holes_in_guide_for_past_three_day:
+  jira_id:
+  - FRUM-1334
+test_21557979_verify_metacritic_rating_on_livetv:
+  jira_id:
+  - FRUM-1152
+test_21557980_verify_metacritic_rating_on_guide:
+  jira_id:
+  - FRUM-1033
+test_21558036_press_guide_button_and_verify_guide_screen:
+  jira_id:
+  - FRUM-1206
+test_21558037_reboot_the_device:
+  jira_id:
+  - FRUM-1028
+test_21558038_restart_ui:
+  jira_id:
+  - FRUM-1029
+test_21558056_verify_livetv_channel_change_when_tivo_service_is_down:
+  jira_id:
+  - FRUM-1216
+test_21558281_verify_guide_and_livetv_when_service_down:
+  jira_id:
+  - FRUM-1455
+test_21558282_verify_channel_options_watch_now_when_service_down:
+  jira_id:
+  - FRUM-1044
+test_21558353_21558361_21558377_21558363_21558365_21558366_21558369_fail_open_olg_feature_mind_is_down:
+  jira_id:
+  - FRUM-1337
+test_21558362_fail_open_olg_feature_channels_option_overlay_when_mind_is_down:
+  jira_id:
+  - FRUM-1336
+test_21558382_launch_netflix_from_home_shortcut_and_verify_lst_type_iid:
+  jira_id:
+  - FRUM-53998
+test_21558383_leave_liveTv_overlay:
+  jira_id:
+  - FRUM-1383
+test_21558674_21558675_21558676_21558677_21558679_verify_ndvr_space_display_in_UI:
+  jira_id:
+  - FRUM-1288
+test_21558682_verify_change_in_space_display_in_myshows_after_scheduling_recordings:
+  jira_id:
+  - FRUM-1281
+test_21558682_verify_scheduling_recordings_decreases_space_display_in_myshows:
+  jira_id:
+  - FRUM-1281
+test_21558683_verify_change_in_space_display_in_myshows_after_deleting_recordings:
+  jira_id:
+  - FRUM-1175
+test_21558683_verify_deleting_recordings_increases_space_display_in_myshows:
+  jira_id:
+  - FRUM-1175
+test_21558701_netflix_screen_saver:
+  jira_id:
+  - FRUM-1161
+test_21566850_ftux_screen_after_waking_from_sleep:
+  jira_id:
+  - FRUM-1103
+test_21568509_playback_ndvr_and_watch_recording_for_some_time:
+  jira_id:
+  - FRUM-1292
+test_21568518_playback_socu_and_verify_error_overlay_should_not_display:
+  jira_id:
+  - FRUM-1264
+test_21568606_fill_storage_and_press_exit_on_livetv:
+  jira_id:
+  - FRUM-1080
+test_21568607_fill_internal_storage_and_play_exit_button:
+  jira_id:
+  - FRUM-1167
+test_21570241_test_verify_asset_is_played_in_order_part_2:
+  jira_id:
+  - FRUM-1113
+test_21570241_verify_asset_is_played_in_order_part_1:
+  jira_id:
+  - FRUM-1113
+test_21571809_service_call_disconnect_nsr_connect[NSR]:
+  jira_id:
+  - FRUM-1993
+test_21572360_verify_pluto_tv_by_navigate_using_channelup_button_in_livetv:
+  jira_id:
+  - FRUM-3422
+test_21572415_verify_google_play_app_starts_when_pluto_tv_app_not_installed:
+  jira_id:
+  - FRUM-3429
+test_21572426_verify_channel_change_in_pluto_tv_app:
+  jira_id:
+  - FRUM-3439
+test_21572429_verify_back_button_in_pluto_tv_app:
+  jira_id:
+  - FRUM-3442
+test_21572433_verify_pluto_tv_app_starts_from_future_guide_program_cell:
+  jira_id:
+  - FRUM-3446
+test_21572494_verify_pluto_tv_app_starts_from_oneline_guide:
+  jira_id:
+  - FRUM-3456
+test_21845_ero_promo:
+  jira_id:
+  - FRUM-56809
+test_220951080_verify_welcome_screen_user_active:
+  jira_id:
+  - FRUM-2330
+test_229897472_selecting_netflix_shortcut:
+  jira_id:
+  - FRUM-1144
+test_231329_deep_linking_search:
+  jira_id:
+  - FRUM-379
+test_231784_my_shows_delete_group_overlay:
+  jira_id:
+  - FRUM-126
+test_231822_verify_home_menu_item:
+  jira_id:
+  - FRUM-290
+test_267229_verify_my_shows_recordings_filter:
+  jira_id:
+  - FRUM-111
+test_267263_series_screen_strip_order:
+  jira_id:
+  - FRUM-113
+test_267264_movie_screen_display:
+  jira_id:
+  - FRUM-370
+test_267946_verify_menu_screen_content:
+  jira_id:
+  - FRUM-360
+test_268993257_long_key_press_infocard_wtw:
+  jira_id:
+  - FRUM-1265
+test_268993263_long_key_press_infocard_on_prediction_strip:
+  jira_id:
+  - FRUM-1067
+test_270340_program_actions_keep_from_watch_now_strip:
+  jira_id:
+  - FRUM-1379
+test_270343_program_actions_LiveTV:
+  jira_id:
+  - FRUM-106
+test_270720_verify_initial_focus_in_home_screen:
+  jira_id:
+  - FRUM-46
+  suite: sanity
+test_271293_series_screen:
+  jira_id:
+  - FRUM-112
+test_271379_episode_screen_strip_order:
+  jira_id:
+  - FRUM-401
+test_271460_moviescreen_watchnow_and_test_339618_streamingoptions:
+  jira_id:
+  - FRUM-81
+test_271830_non_episodic_screen_strips_validation:
+  jira_id:
+  - FRUM-402
+test_271847_person_screen_strip_order:
+  jira_id:
+  - FRUM-131
+test_273853_verify_all_episodes_list_view:
+  jira_id:
+  - FRUM-74
+test_274042_episodic_upcoming_airings_screen_validation:
+  jira_id:
+  - FRUM-403
+test_274053_episodic_may_also_like_gallery_screen_validation:
+  jira_id:
+  - FRUM-404
+test_277186_program_actions_recover_this_show:
+  jira_id:
+  - FRUM-306
+test_289569_one_line_guide_entry:
+  jira_id:
+  - FRUM-44
+  - FRUM-58
+test_289570_one_line_guide_option_menu_item_check:
+  jira_id:
+  - FRUM-231
+test_291969_single_explicit_validation_recording:
+  jira_id:
+  - FRUM-406
+test_29417742_vtp_rewind_press_left_live_tv:
+  jira_id:
+  - FRUM-1153
+test_29417749_vtp_forward_press_right_vod:
+  jira_id:
+  - FRUM-1164
+test_29417749_vtp_rewind_press_left_vod:
+  jira_id:
+  - FRUM-1164
+test_29417801_vtp_press_right_motion_live_tv:
+  jira_id:
+  - FRUM-1225
+test_294967_recording_options_overlay:
+  jira_id:
+  - FRUM-1367
+test_299593262_verify_go_to_livetv_trickplay_menu_button_exits_socu:
+  jira_id:
+  - FRUM-1271
+test_299593264_verify_go_to_livetv_trickplay_menu_button_exits_vod:
+  jira_id:
+  - FRUM-33164
+test_299593267_verify_channel_down_button_exits_socu:
+  jira_id:
+  - FRUM-1389
+test_299593267_verify_channel_up_button_exits_socu:
+  jira_id:
+  - FRUM-32723
+test_303673_home_screen:
+  jira_id:
+  - FRUM-1393
+test_303724_one_pass_options_screen:
+  jira_id:
+  - FRUM-1449
+test_309045_pc_on_recording:
+  jira_id:
+  - FRUM-307
+test_309094_schedule_a_one_pass_from_one_line_guide:
+  jira_id:
+  - FRUM-132
+test_309095_schedule_one_pass_from_full_info_banner:
+  jira_id:
+  - FRUM-291
+test_309129_schedule_record_from_info_banner:
+  jira_id:
+  - FRUM-296
+test_309135_delete_recording_overlay:
+  jira_id:
+  - FRUM-1430
+test_309176_guide_recording_myshows:
+  jira_id:
+  - FRUM-273
+test_309439_select_on_demand_shortcut:
+  jira_id:
+  - FRUM-49
+  suite: sanity
+test_309958_rentandwatch_tvod:
+  jira_id:
+  - FRUM-249
+test_309961_vod_browse_gallery_screen_validation:
+  jira_id:
+  - FRUM-394
+test_309964_closed_captioning_on:
+  jira_id:
+  - FRUM-250
+test_309966_12792175_watch_streaming_video_GUIDE_button_PIG_disabled:
+  jira_id:
+  - FRUM-384
+test_309966_12792175_watch_streaming_video_GUIDE_button_PIG_enabled:
+  jira_id:
+  - FRUM-384
+test_309966_watch_streaming_video_GUIDE_button:
+  jira_id:
+  - FRUM-384
+test_309977_parental_controls:
+  jira_id:
+  - FRUM-251
+test_309997_resume_playing:
+  jira_id:
+  - FRUM-252
+test_310003_onepass_from_svod:
+  jira_id:
+  - FRUM-254
+test_310004_search_VOD_program:
+  jira_id:
+  - FRUM-255
+test_310006_vod_browse_biaxial_screen:
+  jira_id:
+  - FRUM-385
+test_310008_vod_screen_validation:
+  jira_id:
+  - FRUM-386
+test_310011_svod_screen:
+  jira_id:
+  - FRUM-256
+test_310023_vod_upsell_overlay:
+  jira_id:
+  - FRUM-257
+test_310024_svod_playback:
+  jira_id:
+  - FRUM-258
+test_310058_my_rentals_on_demand_content:
+  jira_id:
+  - FRUM-259
+test_310110_watch_vod:
+  jira_id:
+  - FRUM-260
+test_310111_rented_tvod:
+  jira_id:
+  - FRUM-261
+test_310112_confirmrentandwatch_tvod:
+  jira_id:
+  - FRUM-262
+test_310115_tvod_preview:
+  jira_id:
+  - FRUM-263
+test_310675_vod_from_live:
+  jira_id:
+  - FRUM-265
+test_310875_encrypted_channel_recording:
+  jira_id:
+  - FRUM-274
+test_310879_cancel_in_progress_recording:
+  jira_id:
+  - FRUM-308
+test_310882_cancel_recording_guide:
+  jira_id:
+  - FRUM-276
+test_310891_delete_program_from_my_shows:
+  jira_id:
+  - FRUM-310
+test_312064618_pc_change_pin:
+  jira_id:
+  - FRUM-1165
+test_312064619_tts_in_trickplay:
+  jira_id:
+  - FRUM-1086
+test_312064623_interrupt_EAS_message:
+  jira_id:
+  - FRUM-1101
+test_312064624_verify_eas_on_ftux:
+  jira_id:
+  - FRUM-1219
+test_312064627_managed_verify_audio_video_present_for_entitled_channels:
+  jira_id:
+  - FRUM-1317
+test_312064627_unmanaged_verify_audio_video_present_for_entitled_channels:
+  jira_id:
+  - FRUM-1431
+test_312064633_verify_preview_text_for_subtitles_and_closedcaption:
+  jira_id:
+  - FRUM-1245
+test_312064634_verify_subtitle_language_after_clear_cache:
+  jira_id:
+  - FRUM-1058
+test_312064635_verify_subtitle_and_cc_order:
+  jira_id:
+  - FRUM-1270
+test_312064642_cc_language_unknown:
+  jira_id:
+  - FRUM-1212
+test_312064646_verify_cc_rendered_when_ON_part1:
+  jira_id:
+  - FRUM-843
+test_312064646_verify_cc_rendered_when_ON_part2:
+  jira_id:
+  - FRUM-843
+test_312064651_invoke_and_highlight_channels:
+  jira_id:
+  - FRUM-33201
+test_312064652_tts_favorites_panel_press_ok:
+  jira_id:
+  - FRUM-32731
+test_312397_bookmark_subscribed_svod_movie:
+  jira_id:
+  - FRUM-266
+test_312517_verify_series_screen:
+  jira_id:
+  - FRUM-349
+test_313490_ipvod_fastforwarding1:
+  jira_id:
+  - FRUM-388
+test_314075_part1_VTP_VOD_trick_play:
+  jira_id:
+  - FRUM-267
+test_314075_trick_play_enabled:
+  jira_id:
+  - FRUM-267
+test_318398_vod_trickplay_ff_restricted:
+  jira_id:
+  - FRUM-268
+test_318999_verify_tts_vod:
+  jira_id:
+  - FRUM-1428
+test_322650_voice_search:
+  jira_id:
+  - FRUM-292
+test_323203_select_vod_jump_channel:
+  jira_id:
+  - FRUM-269
+test_323714_verify_2_weeks_of_upcoming_guide_data:
+  jira_id:
+  - FRUM-277
+test_323715_C21566943_verify_previous_guide_data_days_grid_guide:
+  jira_id:
+  - FRUM-1055
+test_323715_verify_3_days_previous_guide_data:
+  jira_id:
+  - FRUM-278
+test_324362_home_my_shows:
+  jira_id:
+  - FRUM-253
+test_324363_home_guide:
+  jira_id:
+  - FRUM-287
+test_324364_home_search:
+  jira_id:
+  - FRUM-275
+test_324365_home_what_to_watch:
+  jira_id:
+  - FRUM-264
+test_325550_vod_episode_list_view:
+  jira_id:
+  - FRUM-389
+test_326769_my_adult_rentals:
+  jira_id:
+  - FRUM-270
+test_328268_create_one_pass_and_verify:
+  jira_id:
+  - FRUM-45
+  suite: sanity
+test_328459_verify_recording_related_options:
+  jira_id:
+  - FRUM-242
+test_328471_verify_user_preferences_menu_item:
+  jira_id:
+  - FRUM-299
+test_328476_list_favorite_channels_in_guide:
+  jira_id:
+  - FRUM-279
+test_328478_add_channels_to_favorite:
+  jira_id:
+  - FRUM-76
+test_329266_change_and_check_audio_languages:
+  jira_id:
+  - FRUM-369
+test_329329_change_one_pass_options_start_from:
+  jira_id:
+  - FRUM-79
+test_329330_change_rent_or_buy_one_pass_options:
+  jira_id:
+  - FRUM-78
+test_329344_change_sort_options_in_my_shows:
+  jira_id:
+  - FRUM-117
+test_329707704_verify_default_onepass_option:
+  jira_id:
+  - FRUM-1320
+test_329707705_newonly_guide:
+  jira_id:
+  - FRUM-1057
+test_329707706_newonly_pastguide:
+  jira_id:
+  - FRUM-1273
+test_329861_onepass_manager_list_items:
+  jira_id:
+  - FRUM-363
+test_330327_vod_collapsed_offers_display:
+  jira_id:
+  - FRUM-390
+test_330453_search_adult_vod_content:
+  jira_id:
+  - FRUM-383
+test_330538_vod_browse_program_screen_primary_branding_logo:
+  jira_id:
+  - FRUM-62300
+test_330563_tvod_rental_now_allowed:
+  jira_id:
+  - FRUM-392
+test_330623_pc_check_with_right_navigation:
+  jira_id:
+  - FRUM-366
+test_330628_pc_check_with_pin_acceptance:
+  jira_id:
+  - FRUM-364
+test_331426_home_screen_background_video:
+  jira_id:
+  - FRUM-75
+test_331774_search_content_validation:
+  jira_id:
+  - FRUM-1372
+test_333196_create_bookmark_from_my_show_for_movie:
+  jira_id:
+  - FRUM-311
+test_333417_w2w_primary_screen:
+  jira_id:
+  - FRUM-39
+  suite: sanity
+test_333425_w2w_secondary_screen:
+  jira_id:
+  - FRUM-293
+test_333435_WTW_Collection_contentstrip_display:
+  jira_id:
+  - FRUM-367
+test_333981_verify_enter_pin_overlay_for_movie_screen:
+  jira_id:
+  - FRUM-373
+test_333987_incorrect_pinentry_and_test_333986_rating_limit_exceeded:
+  jira_id:
+  - FRUM-382
+test_333988_playbutton_pinchallenge:
+  jira_id:
+  - FRUM-381
+test_333992_okbutton_adultcontent_pinchallenge:
+  jira_id:
+  - FRUM-380
+test_334107_verify_enter_pin_overlay_unknown_rating:
+  jira_id:
+  - FRUM-374
+test_334108_verify_enter_pin_overlay:
+  jira_id:
+  - FRUM-375
+test_335003_enable_cc_from_live_tv:
+  jira_id:
+  - FRUM-297
+test_335008_disable_cc_from_live_tv:
+  jira_id:
+  - FRUM-60187
+test_335796_home_screen_streaming_video_with_locked_rating:
+  jira_id:
+  - FRUM-298
+test_335905_menu_settings:
+  jira_id:
+  - FRUM-359
+test_335906_branding_check_for_system_account_screen:
+  jira_id:
+  - FRUM-62306
+test_335908_branding_check_for_system_info_menu_screens:
+  jira_id:
+  - FRUM-62305
+test_335910_branding_check_for_userpreferences_menu_screens:
+  jira_id:
+  - FRUM-356
+test_336040_lock_vod_asset_during_playback:
+  jira_id:
+  - FRUM-391
+test_339544_vod_browse_program_screen_info_strip:
+  jira_id:
+  - FRUM-396
+test_339633_cancel_ONE_PASS_NAME_from_onepass_options_strip:
+  jira_id:
+  - FRUM-165
+test_339659_verify_onepass_overlay:
+  jira_id:
+  - FRUM-120
+test_340275_graceful_end_overlay:
+  jira_id:
+  - FRUM-1439
+test_342906_vod_playback_encrypted_offer:
+  jira_id:
+  - FRUM-271
+test_347782_first_sign_in:
+  jira_id:
+  - FRUM-319
+test_347783_ftux_second_signin:
+  jira_id:
+  - FRUM-317
+test_347821_ftux_onepassquickselect:
+  jira_id:
+  - FRUM-318
+test_347998_verify_settings_menu_items:
+  jira_id:
+  - FRUM-300
+test_350212_ToDo_list_empty:
+  jira_id:
+  - FRUM-301
+test_350238_pc_on_user_preference:
+  jira_id:
+  - FRUM-362
+test_350239_verify_parental_control_with_incorrect_pin:
+  jira_id:
+  - FRUM-361
+test_350660_changing_parental_controls_rating_to_tv_G:
+  jira_id:
+  - FRUM-355
+test_351608_episode_movie_in_result_strip_GA:
+  jira_id:
+  - FRUM-348
+test_351614_launch_person_screen_using_GA:
+  jira_id:
+  - FRUM-322
+test_354461_playback_recording:
+  jira_id:
+  - FRUM-48
+test_354562_jump_forward_by_GA:
+  jira_id:
+  - FRUM-329
+test_355038_verify_encrypted:
+  jira_id:
+  - FRUM-47
+  suite: sanity
+test_355038_verify_unencrypted:
+  jira_id:
+  - FRUM-47
+  suite: sanity
+test_355106_verify_alternate_audio:
+  jira_id:
+  - FRUM-280
+test_355569_guide_catchup_icon_inprogress:
+  jira_id:
+  - FRUM-418
+test_355570_guide_catchup_icon_past:
+  jira_id:
+  - FRUM-62292
+test_355571_future_socu_program_source_icon:
+  jira_id:
+  - FRUM-408
+test_355573_SOCU_source_icon_guide_header:
+  jira_id:
+  - FRUM-413
+test_355617_item_name_verification:
+  jira_id:
+  - FRUM-1373
+test_355617_talk_back_speech_recognition:
+  jira_id:
+  - FRUM-1373
+test_355625_verify_socu_playback_from_onelineguide:
+  jira_id:
+  - FRUM-412
+test_355626_verify_socu_playback_from_onelineguide_past:
+  jira_id:
+  - FRUM-415
+test_355671_watch_options_on_record_overlay:
+  jira_id:
+  - FRUM-411
+test_355711_verify_socu_record_overlay:
+  jira_id:
+  - FRUM-73
+test_355718_guide_socu_playback:
+  jira_id:
+  - FRUM-40
+  suite: sanity
+test_355719_guide_socu_playback_past:
+  jira_id:
+  - FRUM-42
+  suite: sanity
+test_356135_trigger_EAS_alert:
+  jira_id:
+  - FRUM-294
+test_358157_launch_app_using_prediction_ad:
+  jira_id:
+  - FRUM-371
+test_358250_socu_playback_closed_captioning:
+  jira_id:
+  - FRUM-240
+test_358253_socu_playback_until_end:
+  jira_id:
+  - FRUM-1459
+test_358254_socu_partially_watched_resume_playing:
+  jira_id:
+  - FRUM-241
+test_358255_socu_ffwX1_mode:
+  jira_id:
+  - FRUM-419
+test_358283_socu_pause_mode:
+  jira_id:
+  - FRUM-417
+test_358316_socu_rwX1_mode:
+  jira_id:
+  - FRUM-414
+test_359401_socu_play_mode:
+  jira_id:
+  - FRUM-410
+test_359552_pause_recording_validation:
+  jira_id:
+  - FRUM-372
+test_361368_playback_socu_livetv:
+  jira_id:
+  - FRUM-72
+test_361374_socu_offer:
+  jira_id:
+  - FRUM-1395
+test_363100_search_past_socu_asset_source_icon:
+  jira_id:
+  - FRUM-67
+test_363174_play_encrypted_socu_from_guide:
+  jira_id:
+  - FRUM-243
+test_363174_play_encrypted_socu_from_liveTv:
+  jira_id:
+  - FRUM-246
+test_363174_playback_socu_from_series_screen:
+  jira_id:
+  - FRUM-247
+test_363174_watch_socu_from_search:
+  jira_id:
+  - FRUM-248
+test_365012_exit_playback_from_apps_and_my_shows:
+  jira_id:
+  - FRUM-312
+test_365013_ability_to_change_user_preferences:
+  jira_id:
+  - FRUM-302
+test_365014_channel_up_down:
+  jira_id:
+  - FRUM-281
+test_368335_socu_playback_through_myshow_options:
+  jira_id:
+  - FRUM-1409
+test_372870770_live_tv_recovery_in_hydra:
+  jira_id:
+  - FRUM-1192
+test_372870771_guide_logo_recovery_in_hydra:
+  jira_id:
+  - FRUM-1119
+test_372870772_greyed_channel_recovery_in_hydra_pt1:
+  jira_id:
+  - FRUM-1253
+test_372870774_greyed_channel_recovery_in_hydra_pt2:
+  jira_id:
+  - FRUM-1066
+test_372870780_live_tv_recovery_by_foreground_event:
+  jira_id:
+  - FRUM-1073
+test_372870781_rating_limits_recovery_in_hydra:
+  jira_id:
+  - FRUM-1251
+test_372870783_vod_recovery_in_hydra:
+  jira_id:
+  - FRUM-1179
+test_372870789_guide_logo_recovery_by_foreground_event:
+  jira_id:
+  - FRUM-1235
+test_372870791_greyed_channel_recovery_by_foreground_pt2:
+  jira_id:
+  - FRUM-1166
+test_372870792_greyed_channel_recovery_by_foreground_pt1:
+  jira_id:
+  - FRUM-1191
+test_372870793_rating_limits_recovery_by_foreground:
+  jira_id:
+  - FRUM-1257
+test_372870795_vod_recovery_by_foreground:
+  jira_id:
+  - FRUM-1311
+test_388772364_accept_tivo_eula_in_ftux_screen:
+  jira_id:
+  - FRUM-1125
+test_389366286_Customer_support_number:
+  jira_id:
+  - FRUM-54012
+test_389366287_url_account_management:
+  jira_id:
+  - FRUM-54013
+test_389366296_verify_subtitle_in_low_bandwidth:
+  jira_id:
+  - FRUM-1187
+test_389366311_EAS_on_no_purchase_ppv:
+  jira_id:
+  - FRUM-1123
+test_389366311_verify_EAS_on_ppv:
+  jira_id:
+  - FRUM-1123
+test_389366315_verify_watch_stickiness_entry_point_my_shows:
+  jira_id:
+  - FRUM-27467
+test_389366317_watch_stickiness_entry_ott:
+  jira_id:
+  - FRUM-27479
+test_389366320_parental_controls_tivoplus_channel:
+  jira_id:
+  - FRUM-33140
+test_389366323_guide_backward_stickiness_from_tivo_plus_channel:
+  jira_id:
+  - FRUM-32783
+test_389366330_brandingui_after_signin_success:
+  jira_id:
+  - FRUM-1035
+test_389366330_brandingui_after_signin_successful:
+  jira_id:
+  - FRUM-1035
+test_389366335_389366336_parental_controls_audio_only_channel:
+  jira_id:
+  - FRUM-58067
+test_389366344_verify_long_key_press_info_card:
+  jira_id:
+  - FRUM-1324
+test_389366347_verify_promo_carousel_strip_item:
+  jira_id:
+  - FRUM-1190
+test_389366352_prediction_bar_with_recording:
+  jira_id:
+  - FRUM-48593
+test_389366355_verify_tts_for_all_options_on_trickplay:
+  jira_id:
+  - FRUM-32862
+test_393513_schedule_multiple_recordings_from_livetv:
+  jira_id:
+  - FRUM-127
+test_393518_socuicon_on_programscreen_infobanner_predictionbar:
+  jira_id:
+  - FRUM-68
+test_393520_create_bookmark_from_live_tv:
+  jira_id:
+  - FRUM-313
+test_393520_create_bookmark_from_prediction:
+  jira_id:
+  - FRUM-313
+test_393520_create_bookmark_from_wtw:
+  jira_id:
+  - FRUM-313
+test_393581_wake_up_using_bail_buttons:
+  jira_id:
+  - FRUM-295
+test_393657_ability_to_go_into_each_available_settings:
+  jira_id:
+  - FRUM-303
+test_393663_block_all_shows:
+  jira_id:
+  - FRUM-304
+test_393668_channel_entitlement_matches_assigned_linear_packages:
+  jira_id:
+  - FRUM-282
+test_393694_catchup_until_end_autoplay_next_episode:
+  jira_id:
+  - FRUM-1406
+test_393695_onelineguide_socu_playback_past:
+  jira_id:
+  - FRUM-244
+test_393696_onelineguide_socu_playback:
+  jira_id:
+  - FRUM-245
+test_393697_WTW_SOCU_Source_icon_and_playback:
+  jira_id:
+  - FRUM-1404
+test_393698_1_ability_to_launch_and_exit_netflix_ott_app:
+  jira_id:
+  - FRUM-236
+test_393698_2_ability_to_launch_and_exit_youtube_ott_app:
+  jira_id:
+  - FRUM-237
+test_393698_3_ability_to_launch_and_exit_googleplay_ott_app:
+  jira_id:
+  - FRUM-239
+test_393698_4_clear_button_in_ott_apps:
+  jira_id:
+  - FRUM-238
+test_393705_modify_onepass_options_todo_list:
+  jira_id:
+  - FRUM-377
+test_393705_modify_recording_options_todo_list:
+  jira_id:
+  - FRUM-128
+test_393706_record_on_a_CCM_channel:
+  jira_id:
+  - FRUM-283
+test_393707_record_on_a_ICM_channel:
+  jira_id:
+  - FRUM-284
+test_393708_create_5_one_pass_from_guide:
+  jira_id:
+  - FRUM-285
+test_393710_explicit_recording_from_search_series_part2:
+  jira_id:
+  - FRUM-316
+  suite: bat
+test_393710_search_and_record_part1:
+  jira_id:
+  - FRUM-315
+test_393711_explicit_recording_prediction_bar:
+  jira_id:
+  - FRUM-122
+test_393714_schedule_recording_and_verify_todo_list:
+  jira_id:
+  - FRUM-288
+test_393715_w2w_recording:
+  jira_id:
+  - FRUM-123
+test_393716_trickplay_recording:
+  jira_id:
+  - FRUM-314
+test_393717_play_same_recording:
+  jira_id:
+  - FRUM-1454
+test_393718_cancel_onepass_from_onepassmanager:
+  jira_id:
+  - FRUM-69
+test_393719_verify_cancelling_upcoming_recording:
+  jira_id:
+  - FRUM-124
+test_393720_delete_recording_from_todo_list:
+  jira_id:
+  - FRUM-125
+test_393722_inprogress_and_completed_recording_option_modification:
+  jira_id:
+  - FRUM-1456
+test_4811163_allow_all_shows:
+  jira_id:
+  - FRUM-80
+test_48571_hospitality_device_clear_myshows:
+  jira_id:
+  - FRUM-48571
+test_4863024_select_sign_in_opt_acc_locked_screen_locked_acc:
+  jira_id:
+  - FRUM-1629
+test_4863028_5314172_fasu_acc_locked_screen_title:
+  jira_id:
+  - FRUM-1631
+test_4863029_select_hydra_app_sys_info_opt_acc_locked_screen:
+  jira_id:
+  - FRUM-905
+test_4863034_select_network_settings_opt_acc_locked_screen:
+  jira_id:
+  - FRUM-875
+test_4863048_select_device_sys_info_opt_acc_locked_screen:
+  jira_id:
+  - FRUM-979
+test_4863052_from_active_to_cancelled_when_turned_off:
+  jira_id:
+  - FRUM-981
+test_4863054_acc_locked_from_cancelled_to_active:
+  jira_id:
+  - FRUM-48547
+  - FRUM-48551
+test_4863059_press_home_btn_on_acc_locked_screen:
+  jira_id:
+  - FRUM-865
+test_4863169_explicit_feedback_info_cards_bookmark_movie:
+  jira_id:
+  - FRUM-983
+test_4863181_explicit_feedback_info_cards_bookmark_episode:
+  jira_id:
+  - FRUM-869
+test_4863205_explicit_feedback_info_cards_bookmark_non_episodic:
+  jira_id:
+  - FRUM-900
+test_4863301_press_skip_ftux_streaming_apps_screen:
+  jira_id:
+  - FRUM-48450
+test_4863305_press_skip_on_ftux_streaing_apps_screen:
+  jira_id:
+  - FRUM-48449
+test_4863386_video_off_background_atmospheric:
+  jira_id:
+  - FRUM-1438
+test_4863386_video_off_background_black_on_home:
+  jira_id:
+  - FRUM-1438
+test_4863386_video_on_home_yes_PIG_mode:
+  jira_id:
+  - FRUM-1438
+test_4863386_video_on_home_yes_full_screen:
+  jira_id:
+  - FRUM-1438
+test_4863839_info_cards_entry_points:
+  jira_id:
+  - FRUM-666
+test_4863847_info_cards_action_mode_see_more_info_press_select:
+  jira_id:
+  - FRUM-789
+test_486395023_check_device_properties:
+  jira_id:
+  - FRUM-54002
+test_486395024_low_memory_killer_case1:
+  jira_id:
+  - FRUM-54003
+test_486395024_low_memory_killer_case2:
+  jira_id:
+  - FRUM-54003
+test_4864181_parental_control_on_home_video_on:
+  jira_id:
+  - FRUM-1355
+test_4866146_verify_thuuz_rating_when_thuuz_rating_is_OFF:
+  jira_id:
+  - FRUM-849
+test_4866147_verify_thuuz_rating_on_guide_when_thuuz_rating_is_ON:
+  jira_id:
+  - FRUM-891
+test_4866162_verify_thuuz_ratings_on_livetv_when_thuuz_rating_is_OFF:
+  jira_id:
+  - FRUM-783
+test_4866167_verify_thuuz_ratings_on_livetv_when_thuuz_rating_is_ON:
+  jira_id:
+  - FRUM-828
+test_489015_vod_restricted_device_type_check_with_mso_true:
+  jira_id:
+  - FRUM-31999
+test_489016_vod_restricted_device_type_check_with_mso_false:
+  jira_id:
+  - FRUM-32000
+test_489017_vod_restricted_device_type_check_with_mso_blank:
+  jira_id:
+  - FRUM-32001
+test_489018_vod_not_restricted_device_type_check_with_mso_true:
+  jira_id:
+  - FRUM-32018
+test_489019_vod_not_restricted_device_type_check_with_mso_false:
+  jira_id:
+  - FRUM-32019
+test_489020_vod_not_restricted_device_type_check_with_mso_blank:
+  jira_id:
+  - FRUM-32020
+test_514088581_tune_to_tivoplus_channel_from_guide:
+  jira_id:
+  - FRUM-32852
+test_5314732_verify_app_launches_with_supported_language:
+  jira_id:
+  - FRUM-1396
+test_5314733_5314734_verify_app_launches_with_unsupported_language:
+  jira_id:
+  - FRUM-1410
+test_5413278_apps_and_games_hospitality_device_clear_ext_app:
+  jira_id:
+  - FRUM-48542
+test_5413280_hospitality_device_clear_parental_controls:
+  jira_id:
+  - FRUM-727
+test_5413622_hospitality_device_clear_onepass:
+  jira_id:
+  - FRUM-944
+test_5413625_hospitality_device_clear_favorite_channel:
+  jira_id:
+  - FRUM-685
+test_5424269_grid_guide_entry_default_program_channel_time:
+  jira_id:
+  - FRUM-176
+test_5590548_search_movie_name_search_by_GA_C2C:
+  jira_id:
+  - FRUM-964
+test_5590550_search_series_name_search_by_GA_C2C:
+  jira_id:
+  - FRUM-726
+test_5590551_genre_search_series_search_by_GA_C2C:
+  jira_id:
+  - FRUM-886
+test_5590551_search_comedy_genre:
+  jira_id:
+  - FRUM-886
+test_5590554_crew_search_by_GA_C2C:
+  jira_id:
+  - FRUM-973
+test_5590556_actor_search_by_GA_C2C:
+  jira_id:
+  - FRUM-931
+test_5590556_c2c_search_actor:
+  jira_id:
+  - FRUM-931
+test_5590558_C2C_keyword_search:
+  jira_id:
+  - FRUM-928
+test_5590559_negative_filters_by_GA_C2C:
+  jira_id:
+  - FRUM-1408
+test_5590560_watch_channel_name:
+  jira_id:
+  - FRUM-725
+test_5590560_watch_channel_name_by_GA_C2C:
+  jira_id:
+  - FRUM-725
+test_5590562_switch_to_channel_name:
+  jira_id:
+  - FRUM-809
+test_5590562_switch_to_channel_name_by_GA_C2C:
+  jira_id:
+  - FRUM-809
+test_5590563_go_to_channel_name:
+  jira_id:
+  - FRUM-771
+test_5590563_go_to_channel_name_by_GA_C2C:
+  jira_id:
+  - FRUM-771
+test_5590704_apps_and_games_featured_apps_first_item:
+  jira_id:
+  - FRUM-110
+test_5593939_apps_and_games_sections_order:
+  jira_id:
+  - FRUM-121
+test_5595798_verify_episodic_livetv_program_title_in_info_banner:
+  jira_id:
+  - FRUM-1385
+test_5595803_check_right_column_of_info_banner_header:
+  jira_id:
+  - FRUM-1357
+test_5595810_info_banner_closed_captions_message_area:
+  jira_id:
+  - FRUM-1424
+test_5595813_check_up_next_show_in_info_banner:
+  jira_id:
+  - FRUM-1388
+test_5596992_info_banner_more_info_message_area:
+  jira_id:
+  - FRUM-1434
+test_5596996_verify_press_and_hold_to_start_over_tip_is_shown:
+  jira_id:
+  - FRUM-83
+test_5603214_my_library_navigate_by_GA_C2C:
+  jira_id:
+  - FRUM-915
+test_5603235_my_recordings_navigate_by_GA_C2C:
+  jira_id:
+  - FRUM-810
+test_5603240_go_to_my_library_myshows_navigate_by_GA_C2C:
+  jira_id:
+  - FRUM-864
+test_5603241_go_to_my_recordings_myshows_navigate_by_GA_C2C:
+  jira_id:
+  - FRUM-943
+test_5603242_go_to_my_library_myshows_from_OTT_navigate_by_GA_C2C:
+  jira_id:
+  - FRUM-988
+test_5603244_go_home_from_OTT_navigate_by_GA_C2C:
+  jira_id:
+  - FRUM-698
+test_5603245_go_to_my_apps_from_OTT_navigate_by_GA_C2C:
+  jira_id:
+  - FRUM-903
+test_5603246_go_to_guide_from_OTT_navigate_by_GA_C2C:
+  jira_id:
+  - FRUM-841
+test_5603247_go_home_navigate_by_GA_C2C:
+  jira_id:
+  - FRUM-54016
+test_5603249_go_to_guide_navigate_by_GA_C2C:
+  jira_id:
+  - FRUM-333
+test_5603439_fasu_phase2_disconnect_cancel_activate_connect_wait_7_mins:
+  jira_id:
+  - FRUM-955
+test_5604137_go_to_home_screen_navigate_by_GA_C2C:
+  jira_id:
+  - FRUM-334
+test_5604756_open_my_library_myshows_navigate_by_GA_C2C:
+  jira_id:
+  - FRUM-754
+test_57599_tubi_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-57599
+test_57613_verify_tubi_app_is_not_installed:
+  jira_id:
+  - FRUM-57613
+test_57651_freevee_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-57651
+test_57653_freevee_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-57653
+test_57662_verify_freevee_app_is_not_installed:
+  jira_id:
+  - FRUM-57662
+test_57667_uncheck_Freevee_app_and_deeplink_from_search:
+  jira_id:
+  - FRUM-57667
+test_57985_Peacock_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-57985
+test_57988_peacock_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-57988
+test_57994_verify_Peacock_app_is_not_installed:
+  jira_id:
+  - FRUM-57994
+test_57997_deeplink_Peacock_from_prediction_bar:
+  jira_id:
+  - FRUM-57997
+test_58006_uncheck_Peacock_and_deeplink_from_search:
+  jira_id:
+  - FRUM-58006
+test_59953_disneyplus_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-59953
+test_59956_disneyPlus_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-59956
+test_59957_verify_disneyPlus_app_is_not_installed:
+  jira_id:
+  - FRUM-59957
+test_59962_search_and_nav_disney_plus_wtw_upcoming:
+  jira_id:
+  - FRUM-59962
+test_59963_deeplink_disneyPlus_from_prediction_bar:
+  jira_id:
+  - FRUM-59963
+test_59967_uncheck_disneyPlus_and_deeplink_from_search:
+  jira_id:
+  - FRUM-59967
+test_59968_deeplink_disneyPlus_from_upcoming_prediction_bar:
+  jira_id:
+  - FRUM-59968
+test_59972_epix_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-59972
+test_59975_epix_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-59975
+test_59976_verify_epix_app_is_not_installed:
+  jira_id:
+  - FRUM-59976
+test_59980_uncheck_epix_and_deeplink_from_search:
+  jira_id:
+  - FRUM-59980
+test_634268940_check_global_assist_triggering_feature_is_set_correctly:
+  jira_id:
+  - FRUM-91273
+  - FRUM-1397
+test_64518_pluto_tv_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-64518
+test_64519_pluto_tv_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-64519
+test_64525_verify_pluto_tv_app_is_not_installed:
+  jira_id:
+  - FRUM-64525
+test_64525_verify_showtime_anytime_app_is_not_installed:
+  jira_id:
+  - FRUM-64525
+test_64529_uncheck_pluto_tv_and_deeplink_from_search:
+  jira_id:
+  - FRUM-64529
+test_64599_showtime_anytime_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-64599
+test_64601_showtime_anytime_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-64601
+test_64610_uncheck_showtime_anytime_and_deeplink_from_search:
+  jira_id:
+  - FRUM-64610
+test_64614_paramount_plus_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-64614
+test_64616_paramount_plus_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-64616
+test_64621_verify_paramount_plus_app_is_not_installed:
+  jira_id:
+  - FRUM-64621
+test_64626_uncheck_paramount_plus_and_deeplink_from_search:
+  jira_id:
+  - FRUM-64626
+test_6466_c648_overlay_and_reconnect:
+  jira_id:
+  - FRUM-6466
+test_6625_c649_overlay_and_reconnect:
+  jira_id:
+  - FRUM-6625
+test_6643_c650_overlay_and_reconnect:
+  jira_id:
+  - FRUM-6643
+test_6645_c660_overlay_and_reconnect:
+  jira_id:
+  - FRUM-6645
+test_665044553_character_search_by_GA_C2C:
+  jira_id:
+  - FRUM-1368
+test_665044556_movie_decade_temporal_search_by_GA_C2C:
+  jira_id:
+  - FRUM-1366
+test_69584590_vod_playback_continue_to_play_after_pressing_watch_video_button:
+  jira_id:
+  - FRUM-232
+test_72606_no_carousal_pager:
+  jira_id:
+  - FRUM-72606
+test_74058521_parental_controls_in_settings_submenus:
+  jira_id:
+  - FRUM-136
+test_74060824_verify_pc_with_incorrect_pin:
+  jira_id:
+  - FRUM-137
+test_74063254_verify_lock_channels_menu_not_listed_in_parental_controls:
+  jira_id:
+  - FRUM-138
+test_74065557_verify_adult_title_hidden:
+  jira_id:
+  - FRUM-139
+test_74067860_check_source_icons_for_socu_and_socu_non_OTT[kwargs0]:
+  jira_id:
+  - FRUM-140
+test_74067860_check_source_icons_for_socu_and_socu_non_OTT[kwargs1]:
+  jira_id:
+  - FRUM-218
+test_74067860_check_source_icons_for_socu_and_socu_non_OTT_part1:
+  jira_id:
+  - FRUM-54004
+test_74067860_check_source_icons_for_socu_and_socu_non_OTT_part2:
+  jira_id:
+  - FRUM-54004
+test_74070163_check_record_overlay_for_socu_and_OTT_offer:
+  jira_id:
+  - FRUM-141
+test_74072466_create_bookmarks_pc_locked:
+  jira_id:
+  - FRUM-142
+test_74074769_1_verify_smooth_transition_trickplay_vod:
+  jira_id:
+  - FRUM-144
+test_74074769_2_verify_smooth_transition_trickplay_live_tv:
+  jira_id:
+  - FRUM-219
+test_74077072_verify_advance_and_replay:
+  jira_id:
+  - FRUM-145
+test_74081805_live_playback_validation_using_GA:
+  jira_id:
+  - FRUM-323
+test_74084161_change_channels_with_empty_favorite_channels_list:
+  jira_id:
+  - FRUM-146
+test_74086544_to_be_able_play_same_show_multiple_sources:
+  jira_id:
+  - FRUM-147
+test_74092628_verify_video_reverts_to_livetv_after_vod_playback_complete:
+  jira_id:
+  - FRUM-148
+test_74094935_verify_transition_between_apps:
+  jira_id:
+  - FRUM-324
+test_74097242_talk_back_in_menu:
+  jira_id:
+  - FRUM-1432
+test_74099549_verify_all_one_pass_bookmarks_created_are_placed_under_my_shows1:
+  jira_id:
+  - FRUM-149
+test_74099549_verify_all_one_pass_bookmarks_created_are_placed_under_my_shows2:
+  jira_id:
+  - FRUM-221
+test_74099549_verify_all_one_pass_bookmarks_created_are_placed_under_my_shows3:
+  jira_id:
+  - FRUM-224
+test_74101856_check_full_info_banner_liveTV:
+  jira_id:
+  - FRUM-150
+test_74104163_verify_changes_in_accessibility_reflect_in_live_tv_and_vod:
+  jira_id:
+  - FRUM-151
+test_74108904_tune_subscribed_and_unsubscribed_channel_from_liveTv_with_different_actions:
+  jira_id:
+  - FRUM-227
+test_74108904_tune_unsubscribed_channel_from_liveTv_with_different_actions:
+  jira_id:
+  - FRUM-54005
+test_74111211_check_notification:
+  jira_id:
+  - FRUM-321
+test_74115843_launch_ott_app_with_hotkey_and_exit_with_home_button:
+  jira_id:
+  - FRUM-152
+test_74118150_launch_ott_app_with_hotkey_and_exit_with_exit_button:
+  jira_id:
+  - FRUM-153
+test_74120457_bookmark_ott_programs_and_verify_in_myshows:
+  jira_id:
+  - FRUM-234
+test_74122764_VOD_playback_after_screen_saver:
+  jira_id:
+  - FRUM-155
+test_74125071_verify_ability_launch_netflix_with_the_NETFLIX_button_before_and_after_unchecking:
+  jira_id:
+  - FRUM-156
+test_74129685_play_next_episode_from_playnext_overlay:
+  jira_id:
+  - FRUM-157
+test_74131992_advance_blocked_when_ff_restricted:
+  jira_id:
+  - FRUM-233
+test_74134299_user_pref_retained_after_reboot:
+  jira_id:
+  - FRUM-158
+test_74136606_vod_playback_after_network_reconnect:
+  jira_id:
+  - FRUM-1038
+test_74138913_verify_onepass_modify_on_various_screens:
+  jira_id:
+  - FRUM-159
+test_74143527_verify_launching_an_app_from_the_apps_screen:
+  jira_id:
+  - FRUM-160
+test_74150639_app_content_playback:
+  jira_id:
+  - FRUM-326
+test_74155429_tune_to_nDvr:
+  jira_id:
+  - FRUM-161
+test_74157768_ndvr_record_and_playback_recorded:
+  jira_id:
+  - FRUM-54006
+test_74160107_verify_creating_one_pass_from_future_airing:
+  jira_id:
+  - FRUM-162
+test_74162446_watch_nDvr_entitled_show_from_olg:
+  jira_id:
+  - FRUM-163
+test_74164912_add_one_pass_from_olg:
+  jira_id:
+  - FRUM-164
+test_74169590_create_delete_onepass:
+  jira_id:
+  - FRUM-1189
+test_74171929_verify_any_remote_key_wake_up:
+  jira_id:
+  - FRUM-166
+test_74176734_verify_smoothexit_of_game_app_launch:
+  jira_id:
+  - FRUM-327
+test_74179073_verify_voice_empty_response:
+  jira_id:
+  - FRUM-235
+test_74181412_wakeup_device_in_disconnected_state:
+  jira_id:
+  - FRUM-1238
+test_74200415_verify_nDvr_recording_with_commercial:
+  jira_id:
+  - FRUM-167
+test_74216788_Verify_launching_an_App_from_Home:
+  jira_id:
+  - FRUM-168
+test_74219127_verify_launching_an_app_from_home_and_pressing_the_exit:
+  jira_id:
+  - FRUM-169
+test_74221466_launch_app_from_app_screen:
+  jira_id:
+  - FRUM-170
+test_74223805_launch_youtube_from_home_and_pressing_back_returns_to_home:
+  jira_id:
+  - FRUM-171
+test_74228483_press_apps_button_from_live_tv:
+  jira_id:
+  - FRUM-172
+test_74230822_press_apps_button_lead_to_apps_and_games_screen:
+  jira_id:
+  - FRUM-173
+test_74332039_home_button_return_to_home:
+  jira_id:
+  - FRUM-174
+test_74334382_verify_launching_an_app_from_the_guide:
+  jira_id:
+  - FRUM-175
+test_74336725_back_return_to_guide:
+  jira_id:
+  - FRUM-177
+test_74341411_verify_searching_episode_OTT:
+  jira_id:
+  - FRUM-178
+test_74343754_record_future_show_from_guide:
+  jira_id:
+  - FRUM-179
+test_74346224_verify_creating_onepass_from_past_available:
+  jira_id:
+  - FRUM-181
+test_74348567_add_record_from_olg:
+  jira_id:
+  - FRUM-182
+test_74350910_verify_creating_one_pass_from_past_available_and_entitled_ndvr_show_in_one_line_guide:
+  jira_id:
+  - FRUM-183
+test_74355596_verify_watching_live_tv_playing_the_partial_recording_from_my_shows:
+  jira_id:
+  - FRUM-184
+test_74367571_verify_playing_nDVR_recording_rewind_to_beginning_resume_playing_and_check_fast_forward:
+  jira_id:
+  - FRUM-229
+test_74372261_create_partial_rec_from_guide:
+  jira_id:
+  - FRUM-185
+test_74381641_add_partial_record_from_olg:
+  jira_id:
+  - FRUM-186
+test_74383986_verify_watching_an_airing_live_show_and_press_pause_replay_buttons:
+  jira_id:
+  - FRUM-84
+test_74395711_record_and_watch_till_end:
+  jira_id:
+  - FRUM-1085
+test_74398056_verify_deleting_ndvr_recording_from_my_shows:
+  jira_id:
+  - FRUM-188
+test_74405091_search_OTT_and_linear_from_WTW:
+  jira_id:
+  - FRUM-189
+test_74409781_verify_able_to_plays_live_tv_when_exit_button_is_pressed:
+  jira_id:
+  - FRUM-190
+test_74412126_user_able_playback_and_delete_bookmark:
+  jira_id:
+  - FRUM-191
+test_74419161_show_removed_from_predictions_when_its_not_live:
+  jira_id:
+  - FRUM-192
+test_74421506_verify_pin_challenge_in_settings_submenus:
+  jira_id:
+  - FRUM-193
+test_74423851_socu_and_ndvr_both_work:
+  jira_id:
+  - FRUM-194
+test_74426196_verify_options_under_preview_area_on_highlight_modify_onepass:
+  jira_id:
+  - FRUM-195
+test_74428541_quick_tour:
+  jira_id:
+  - FRUM-1328
+test_74440071_verify_live_tv_with_sequence_keypress:
+  jira_id:
+  - FRUM-196
+test_74444761_various_keyactions_and_reboot:
+  jira_id:
+  - FRUM-1303
+test_74447106_validate_unentitled_display_V56:
+  jira_id:
+  - FRUM-222
+test_74447106_validate_unentitled_display_V56[None]:
+  jira_id:
+  - FRUM-197
+test_74447106_validate_unentitled_display_V56_setup_lock_parental_and_purchase_controls:
+  jira_id:
+  - FRUM-54008
+test_74449451_verify_device_wake_up_gracefully:
+  jira_id:
+  - FRUM-199
+test_74451796_verify_vod_launch_stability:
+  jira_id:
+  - FRUM-200
+test_74451796_verify_vod_launch_stability_managed_device:
+  jira_id:
+  - FRUM-223
+test_74451796_verify_vod_launch_stability_managed_devices:
+  jira_id:
+  - FRUM-223
+test_74451796_verify_vod_launch_stability_unmanaged_devices:
+  jira_id:
+  - FRUM-225
+test_74454141_verify_loading_indicator_OSD:
+  jira_id:
+  - FRUM-201
+test_74456486_cancel_onepass_for_in_progress_recording:
+  jira_id:
+  - FRUM-202
+test_74458831_verify_jump_channels_names_in_user_pref:
+  jira_id:
+  - FRUM-203
+test_74461176_verify_tv_ma_rated_vod_asset_is_playing:
+  jira_id:
+  - FRUM-204
+test_74477692_verify_creating_one_pass_from_currently_airing:
+  jira_id:
+  - FRUM-205
+test_74480037_to_verify_able_to_navigate_first_to_last_channels:
+  jira_id:
+  - FRUM-206
+test_74482382_search_currently_airing_entitled_channel:
+  jira_id:
+  - FRUM-207
+test_74484727_validate_pc_osd_on_upcoming:
+  jira_id:
+  - FRUM-208
+test_74487072_pc_block_alternating_audio_track:
+  jira_id:
+  - FRUM-210
+test_74489417_verify_live_tv_is_played_after_deleting_the_onepass:
+  jira_id:
+  - FRUM-211
+test_74491762_verify_live_tv_is_played_after_deleting_from_to_do_list:
+  jira_id:
+  - FRUM-212
+test_74494107_start_recording_from_live_and_disconnect_reconnect:
+  jira_id:
+  - FRUM-1313
+test_74496452_verify_transitions_when_switching_ott_apps:
+  jira_id:
+  - FRUM-213
+test_74498797_exit_screensaver_wakeup_with_voicesearch:
+  jira_id:
+  - FRUM-214
+test_74567136_system_behavior_on_tuning_subscribed_and_unsubscribed_channel:
+  jira_id:
+  - FRUM-228
+test_74567136_system_behavior_on_tuning_subscribed_channel:
+  jira_id:
+  - FRUM-54001
+test_74567136_system_behavior_on_tuning_unsubscribed_channel:
+  jira_id:
+  - FRUM-54001
+test_74569488_verify_changes_in_accessibility_reflect_in_live_tv:
+  jira_id:
+  - FRUM-215
+test_74571840_verify_live_tv_after_launching_OTT_VOD:
+  jira_id:
+  - FRUM-216
+test_74574192_green_box_verification:
+  jira_id:
+  - FRUM-217
+test_76095_onepass_record_series_available_live_in_future_by_GA_C2C:
+  jira_id:
+  - FRUM-76095
+test_76980_guide_tune_to_channel:
+  jira_id:
+  - FRUM-407
+test_77020_record_overlay_episodic:
+  jira_id:
+  - FRUM-70
+test_78031_info_banner_brandingicon:
+  jira_id:
+  - FRUM-60191
+test_7979_launch_netflix_from_prediction_bar:
+  jira_id:
+  - FRUM-53997
+test_80987_my_shows_recording_playback:
+  jira_id:
+  - FRUM-107
+test_80988_FFWDx1_mode:
+  jira_id:
+  - FRUM-114
+test_84183_launch_tubi_check_foreground_pkg:
+  jira_id:
+  - FRUM-84183
+test_84214_launch_showtime_anytime_check_foreground_pkg:
+  jira_id:
+  - FRUM-84214
+test_84216_launch_pluto_tv_check_foreground_pkg:
+  jira_id:
+  - FRUM-84216
+test_84225_launch_epix_check_foreground_pkg:
+  jira_id:
+  - FRUM-84225
+test_84226_launch_paramount_plus_check_foreground_pkg:
+  jira_id:
+  - FRUM-84226
+test_84231_launch_Freevee_check_foreground_pkg:
+  jira_id:
+  - FRUM-84231
+test_88524_inprogress_recording_playback:
+  jira_id:
+  - FRUM-115
+test_8880237_vod_watching_exit_playback:
+  jira_id:
+  - FRUM-1354
+test_8880245_verify_resume_playing_the_paused_nDVR_program_and_vod_program:
+  jira_id:
+  - FRUM-799
+test_8880249_verify_playing_nDVR_recording_reboot_and_resume_playing:
+  jira_id:
+  - FRUM-745
+test_8880250_search_OTT_and_linear_from_WTW:
+  jira_id:
+  - FRUM-54007
+test_8880254_gracefull_exit_of_livetv:
+  jira_id:
+  - FRUM-699
+test_8880254_gracefull_exit_of_livetv_unmanaged:
+  jira_id:
+  - FRUM-699
+test_8880255_livetv_indefinite_time:
+  jira_id:
+  - FRUM-1386
+test_8880425_home_button_from_ott_netflix:
+  jira_id:
+  - FRUM-932
+test_8880426_airing_show_resumes_playing_after_pausing:
+  jira_id:
+  - FRUM-1427
+test_8880427_verify_playing_nDVR_recording_rewind_to_beginning_and_resume_playing:
+  jira_id:
+  - FRUM-230
+test_8880428_verify_watching_an_airing_live_show_and_press_pause_advance_buttons:
+  jira_id:
+  - FRUM-85
+test_8880429_airing_continue_playing_after_reboot:
+  jira_id:
+  - FRUM-1405
+test_8880444_record_playback_delete_program:
+  jira_id:
+  - FRUM-918
+test_8883022_prediction_bar_press_select_recording_no_providers_not_live:
+  jira_id:
+  - FRUM-677
+test_8883023_prediction_bar_press_select_recording_providers_not_live:
+  jira_id:
+  - FRUM-785
+test_9390460_terigger_can_EAS_alert_full_screen:
+  jira_id:
+  - FRUM-1435
+test_9390469_verify_canadian_EAS_text_is_white:
+  jira_id:
+  - FRUM-1350
+test_9390526_trigger_us_EAS_alert_and_verify_text_crawls_left_to_right:
+  jira_id:
+  - FRUM-1457
+test_9390558_trigger_us_EAS_alert:
+  jira_id:
+  - FRUM-1401
+test_9390559_trigger_canadian_EAS_alert:
+  jira_id:
+  - FRUM-1443
+test_9390559_trigger_canadian_eas_alert:
+  jira_id:
+  - FRUM-1443
+test_94980_navigate_to_system_info_screen:
+  jira_id:
+  - FRUM-50
+  suite: sanity
+test_94988_trickplay_bar_live_tv:
+  jira_id:
+  - FRUM-289
+test_9642947_verify_the_socu_trickplay_modes:
+  jira_id:
+  - FRUM-822
+test_9642947_verify_the_socu_trickyplay_modes:
+  jira_id:
+  - FRUM-822
+test_9643005_verify_jump_channel_overlay_is_dismissed_using_back_button:
+  jira_id:
+  - FRUM-675
+test_9643005_verify_jump_channel_overlay_is_dismissed_using_clear_button:
+  jira_id:
+  - FRUM-675
+test_9648250_verify_live_tv_trickplay_restrictions_pause:
+  jira_id:
+  - FRUM-82
+test_96673_trigger_floating_EAS_alert_and_verify_text_crawls_twice:
+  jira_id:
+  - FRUM-96673
+test_97999_onepass_options_overlay:
+  jira_id:
+  - FRUM-109
+test_98123_recording_options_with_modify_recording:
+  jira_id:
+  - FRUM-108
+test_9914332_settings_by_GA_C2C:
+  jira_id:
+  - FRUM-873
+test_9916459_verify_pc_setting_push_from_PPS:
+  jira_id:
+  - FRUM-1359
+test_9916460_verify_pc_setting_push_from_userSettings_then_from_PPS:
+  jira_id:
+  - FRUM-1453
+test_9916461_verify_pc_setting_push_from_PPS_then_from_userSettings:
+  jira_id:
+  - FRUM-1363
+test_9916470_verify_pc_setting_update_from_pps_multiple_times:
+  jira_id:
+  - FRUM-1348
+test_9916690_1_verify_chup_chdown_buttons_in_confirm_jump_channel_overlay:
+  jira_id:
+  - FRUM-759
+test_9916690_2_verify_launch_app_option_in_confirm_jump_channel_overlay:
+  jira_id:
+  - FRUM-32960
+test_9916690_3_verify_next_channel_option_in_confirm_jump_channel_overlay:
+  jira_id:
+  - FRUM-32960
+test_9916690_4_verify_confirm_jump_channel_overlay_timeout:
+  jira_id:
+  - FRUM-32960
+test_9916690_5_verify_bail_buttons_in_confirm_jump_channel_overlay:
+  jira_id:
+  - FRUM-759
+test_9916706_verify_stop_option_in_resume_playing_overlay_in_ndvr_recording:
+  jira_id:
+  - FRUM-129
+test_9916707_verify_play_option_in_resume_playing_overlay_in_ndvr_recording:
+  jira_id:
+  - FRUM-130
+test_9916709_verify_resume_playing_overlay_timeout_in_ndvr_recording:
+  jira_id:
+  - FRUM-133
+test_9917033_hospitality_device_clear_guide_default_channel:
+  jira_id:
+  - FRUM-967
+test_9919676_grid_guide_banner_press_select_no_action_deeplink_into:
+  jira_id:
+  - FRUM-748
+test_9919678_grid_guide_banner_press_select_top_level_app:
+  jira_id:
+  - FRUM-994
+test_9919679_grid_guide_banner_press_select_no_action:
+  jira_id:
+  - FRUM-682
+test_9919698_grid_guide_guide_banner_press_down_on_the_bottommost_cell:
+  jira_id:
+  - FRUM-921
+test_C10194980_verify_trickplay_menu_pressing_left_multiple_times:
+  jira_id:
+  - FRUM-86
+test_C10194982_verify_trickplay_menu_pressing_right_multiple_times:
+  jira_id:
+  - FRUM-87
+test_C10195355_favorites_panel_press_ok_selection_from_vod_playback:
+  jira_id:
+  - FRUM-768
+test_C10195355_favorites_panel_press_ok_selection_from_vod_playback_for_vod_jump_channel:
+  jira_id:
+  - FRUM-32971
+test_C10197202_verify_trickplay_menu_back_button_verification:
+  jira_id:
+  - FRUM-89
+test_C10197211_verify_trickplay_menu_guide_button_selection:
+  jira_id:
+  - FRUM-90
+test_C10197284_verify_trickplay_menu_timeout_verification:
+  jira_id:
+  - FRUM-91
+test_C10197301_verify_trickplay_menu_pressing_ok_button:
+  jira_id:
+  - FRUM-92
+test_C10197302_verify_trickplay_menu_pressing_left_button_on_myshows_recording:
+  jira_id:
+  - FRUM-93
+test_C10197303_verify_trickplay_menu_pressing_right_button_on_myshows_recording:
+  jira_id:
+  - FRUM-94
+test_C10197309_verify_trickplay_menu_pressing_info_button_on_myshows_recording:
+  jira_id:
+  - FRUM-95
+test_C10197310_verify_trickplay_menu_guide_button_selection_from_my_shows_recording:
+  jira_id:
+  - FRUM-96
+test_C10197318_verify_vodcontent_trickplay_menu_pressing_ok_button:
+  jira_id:
+  - FRUM-953
+test_C10197319_verify_vodcontent_trickplay_menu_pressing_left_multiple_times:
+  jira_id:
+  - FRUM-671
+test_C10197320_verify_vodcontent_trickplay_menu_pressing_right_multiple_times:
+  jira_id:
+  - FRUM-952
+test_C10197326_verify_trickplay_menu_info_button_selection_from_vod_playback:
+  jira_id:
+  - FRUM-984
+test_C10197327_verify_trickplay_menu_guide_button_selection_from_vod_playback:
+  jira_id:
+  - FRUM-819
+test_C10197345_verify_trickplay_menu_info_icon_selection_from_socu_playback:
+  jira_id:
+  - FRUM-887
+test_C10197346_verify_trickplay_menu_guide_button_selection_from_socu_playback:
+  jira_id:
+  - FRUM-100
+test_C10838526_future_program_ppv_purchase:
+  jira_id:
+  - FRUM-678
+test_C11123692_future_program_ppv_icon:
+  jira_id:
+  - FRUM-802
+test_C11124414_dismiss_ppv_purchase_overlay:
+  jira_id:
+  - FRUM-765
+test_C11400109_verify_full_info_banner_ppv_icon:
+  jira_id:
+  - FRUM-860
+test_C11400344_verify_ppv_icon_in_program_screen:
+  jira_id:
+  - FRUM-965
+test_C11402262_verify_blocked_ratings_ppv_livetv:
+  jira_id:
+  - FRUM-842
+test_C11678230_tivoplus_from_favorites:
+  jira_id:
+  - FRUM-33210
+test_C11678413_scroll_through_tivo_plus_channels:
+  jira_id:
+  - FRUM-33035
+test_C11687969_verify_pc_violation_and_title_hidden_for_adult_content_grid_guide:
+  jira_id:
+  - FRUM-707
+test_C11688005_C11687782_to_do_list_hide_adult_content_on:
+  jira_id:
+  - FRUM-991
+test_C11688096_verify_user_can_watch_same_or_lower_rating_content_in_livetv:
+  jira_id:
+  - FRUM-788
+test_C11962119_getnotificationsend:
+  jira_id:
+  - FRUM-58055
+test_C12784854_change_drm_type_socu_native:
+  jira_id:
+  - FRUM-882
+test_C12784854_drm_type_socu_native_socu_catchup_playback[Socu-preferNative]:
+  jira_id:
+  - FRUM-882
+test_C12784854_drm_type_socu_native_socu_startover_playback:
+  jira_id:
+  - FRUM-882
+test_C12784855_socu_default_to_preferverimatrix:
+  jira_id:
+  - FRUM-58056
+test_C12784856_C12784857_socu_preferNative_to_preferverimatrixordefault:
+  jira_id:
+  - FRUM-882
+test_C12784858_socu_change_drm_type_preferVerimatrix_to_Default:
+  jira_id:
+  - FRUM-58058
+test_C12784859_C12787147_socu_change_drm_preferVerimatrix_to_preferNative:
+  jira_id:
+  - FRUM-58057
+test_C12785390_change_drm_type_ndvr_native:
+  jira_id:
+  - FRUM-1009
+test_C12785390_change_drm_type_ndvr_native[Ndvr-preferNative]:
+  jira_id:
+  - FRUM-1009
+test_C12786349_nDVR_Onepass_Recordings_Verimatrixordefault_to_Widevineornative:
+  jira_id:
+  - FRUM-58060
+test_C12786352_nDVR_Onepass_Recordings_Widevineornative_to_Verimatrixordefault:
+  jira_id:
+  - FRUM-58060
+test_C12787151_change_drm_type_vod_reboot:
+  jira_id:
+  - FRUM-58062
+test_C12787152_change_drm_type_vod_verimatrix:
+  jira_id:
+  - FRUM-58061
+test_C12787153_change_drm_type_vod_native:
+  jira_id:
+  - FRUM-769
+test_C12787153_change_drm_type_vod_native[Vod-preferNative]:
+  jira_id:
+  - FRUM-769
+test_C12792838_defaultPCpin_update_from_brandingUiBundleGet:
+  jira_id:
+  - FRUM-1362
+test_C12792840_publishedDefaultPCpin_changed_from_userSettings:
+  jira_id:
+  - FRUM-1387
+test_C12947444_change_drm_type_linear_native:
+  jira_id:
+  - FRUM-911
+test_C12947444_change_drm_type_linear_native[Linear-preferNative]:
+  jira_id:
+  - FRUM-911
+test_C12947445_C12947450_IPLinear_DefaultorPreferVerimatrix_verimatrixorDefault:
+  jira_id:
+  - FRUM-58053
+test_C12947446_drm_type_iplinear_native_playback[Linear-preferNative]:
+  jira_id:
+  - FRUM-836
+test_C12947447_C12947452_IPLinear_PreferNativeorwidevine_to_Defaultorverimatrix:
+  jira_id:
+  - FRUM-911
+test_C12947453_C12787146_ipLear_change_drm_type_verimatrix_Widevine:
+  jira_id:
+  - FRUM-58054
+test_C13230088_Verify_that_no_action_is_performing_in_slot0_ad:
+  jira_id:
+  - FRUM-798
+test_C13230089_verify_user_able_to_navigate_to_series_screen_from_slot0_ad:
+  jira_id:
+  - FRUM-897
+test_C13230090_verify_user_is_able_to_navigate_to_top_of_app_from_slot0_ad:
+  jira_id:
+  - FRUM-938
+test_C13230091_verify_user_navigates_to_Deeplinked_title_in_OTT_app_from_slot0_ad:
+  jira_id:
+  - FRUM-660
+test_C13230093_verify_user_is_able_to_navigate_to_VOD_program_screen_from_slot0_ad:
+  jira_id:
+  - FRUM-716
+test_C13234007_wtw_hero_promo_ad_not_clickable:
+  jira_id:
+  - FRUM-791
+test_C13234009_verify_user_able_to_navigate_to_series_screen_from_wtw_hero_ad:
+  jira_id:
+  - FRUM-740
+test_C13234010_wtw_hero_promo_ad_leads_to_top_of_ott_app:
+  jira_id:
+  - FRUM-855
+test_C13234011_wtw_hero_promo_ad_leads_to_VOD_screen:
+  jira_id:
+  - FRUM-1294
+  - FRUM-863
+test_C13525047_searching_vod_asset_by_GA_C2C_part1:
+  jira_id:
+  - FRUM-330
+test_C13527453_getdrmtype_iplinear:
+  jira_id:
+  - FRUM-763
+test_C13527454_getdrmtype_npvr:
+  jira_id:
+  - FRUM-739
+test_C13527456_C13527455_getdrmtype_ipvod:
+  jira_id:
+  - FRUM-794
+test_C13527458_verfy_always_require_pin_for_rating:
+  jira_id:
+  - FRUM-680
+test_C13527478_verfy_always_require_pin_for_adult_content:
+  jira_id:
+  - FRUM-904
+test_C13527480_verify_different_adult_content_detail_with_pc_always_require_pin:
+  jira_id:
+  - FRUM-946
+test_C13527510_verify_user_able_to_navigate_to_livetv_from_slot0_ad:
+  jira_id:
+  - FRUM-839
+test_C13531298_IPLinear_widevine_no_audio_during_trickplay:
+  jira_id:
+  - FRUM-58063
+test_C13531302_SoCu_widevine_no_audio_during_trickplay:
+  jira_id:
+  - FRUM-58064
+test_C13531303_nDVR_widevine_no_audio_during_trickplay:
+  jira_id:
+  - FRUM-58065
+test_C13531311_VOD_widevine_no_audio_during_trickplay:
+  jira_id:
+  - FRUM-58066
+test_C13533365_verify_user_navigates_to_Deeplinked_title_in_OTT_app_from_wtw_hero_ad:
+  jira_id:
+  - FRUM-681
+test_C13533958_verify_reject_download_error_yukon_server:
+  jira_id:
+  - FRUM-1159
+test_C13533971_verify_user_able_to_navigate_to_livetv_from_wtw_hero_ad:
+  jira_id:
+  - FRUM-1294
+test_C14379824_managed_verify_home_after_selecting_vod_and_pressing_home:
+  jira_id:
+  - FRUM-1122
+test_C14379824_unmanaged_verify_home_after_selecting_vod_and_pressing_home:
+  jira_id:
+  - FRUM-1122
+test_C14379825_verify_wtw_stability:
+  jira_id:
+  - FRUM-1304
+test_C14379826_red_dot_displayed_on_trickplay_after_creating_recording:
+  jira_id:
+  - FRUM-1126
+test_C14379827_verify_wtw_free_movie_and_Tv_has_free_content:
+  jira_id:
+  - FRUM-1243
+test_C14390253_verify_play_position_after_fastforward:
+  jira_id:
+  - FRUM-1184
+test_C14391800_verify_OnePass_when_tv_off:
+  jira_id:
+  - FRUM-1163
+test_C14391801_verify_recording_when_tv_off:
+  jira_id:
+  - FRUM-1043
+test_C20931416_verify_last_played_channel_on_LiveTV:
+  jira_id:
+  - FRUM-1134
+test_C20949465_verify_adult_category_option_in_OnDemand_to_check_adult_channnels:
+  jira_id:
+  - FRUM-1059
+test_C21558295_Java_crash_and_verify_the_crash_signature:
+  jira_id:
+  - FRUM-54018
+test_C21558296_tombstone_and_verify_the_crash_signature:
+  jira_id:
+  - FRUM-1158
+test_C21558299_ANR_and_verify_the_crash_signature:
+  jira_id:
+  - FRUM-54019
+test_C21558569_verify_ftux_skip_option:
+  jira_id:
+  - FRUM-1241
+test_C21558571_verify_ftux_pc_setting:
+  jira_id:
+  - FRUM-1226
+test_C21570284_verify_previous_guide_data_days_onelineguide:
+  jira_id:
+  - FRUM-1426
+test_C5590561_tune_to_channel_name_by_GA_C2C:
+  jira_id:
+  - FRUM-728
+test_C5603442_verify_ppv_channel_in_guide_check_ppv_overlay:
+  jira_id:
+  - FRUM-866
+test_C5603462_verify_standard_info_banner_ppv_icon:
+  jira_id:
+  - FRUM-840
+test_C9649054_PPV_Search_AdultContent:
+  jira_id:
+  - FRUM-997
+test_FRUM18_verify_4kcontent_search_result_streamlive:
+  jira_id:
+  - FRUM-18
+test_FRUM34_record_4k_upcoming_shows:
+  jira_id:
+  - FRUM-34
+test_FRUM_10_switch_between_UHD_HD_channel:
+  jira_id:
+  - FRUM-10
+test_FRUM_122789_search_ott_priority_check:
+  jira_id:
+  - FRUM-122789
+test_FRUM_12_closed_caption_on_4k_channel:
+  jira_id:
+  - FRUM-12
+test_FRUM_13_switch_audio_track:
+  jira_id:
+  - FRUM-13
+test_FRUM_14_trickplay_action_on_4k_content:
+  jira_id:
+  - FRUM-14
+test_FRUM_15_throttle_bandwidth_during_4k_playback:
+  jira_id:
+  - FRUM-15
+test_FRUM_16_create_onepass_4kcontent:
+  jira_id:
+  - FRUM-16
+test_FRUM_17_playback_completed_4k_recording:
+  jira_id:
+  - FRUM-17
+test_FRUM_20_device_not_support_4k_lower_resolution_playback:
+  jira_id:
+  - FRUM-20
+test_FRUM_24_switch_between_UHD_channels:
+  jira_id:
+  - FRUM-24
+test_FRUM_25_toggle_4k_inprogress_recording_and_vod:
+  jira_id:
+  - FRUM-25
+test_FRUM_28_validate_UHD_resolution_with_required_bandwidth:
+  jira_id:
+  - FRUM-28
+test_FRUM_30012_toggle_4k_and_non4k_recording:
+  jira_id:
+  - FRUM-30012
+test_FRUM_33_inprogress_4k_recording:
+  jira_id:
+  - FRUM-33
+test_FRUM_423_playback_4k_FVOD:
+  jira_id:
+  - FRUM-423
+test_FRUM_424_playback_4k_SVOD:
+  jira_id:
+  - FRUM-424
+test_FRUM_426_playback_4k_VOD_long_duration:
+  jira_id:
+  - FRUM-426
+test_FRUM_427_watch_4k_stop_streaming:
+  jira_id:
+  - FRUM-427
+test_FRUM_428_switch_between_UHD_SD_channel:
+  jira_id:
+  - FRUM-428
+test_FRUM_4355_switch_between_youtube_UHD_channel:
+  jira_id:
+  - FRUM-4355
+test_FRUM_60240_app_switch:
+  jira_id:
+  - FRUM-60240
+test_FRUM_68728_wtw_screen_navigation_with_open_apis:
+  jira_id:
+  - FRUM-68728
+test_frum_121775_wtw_screen_preview_title:
+  jira_id:
+  - FRUM-121775
+test_FRUM_68732_wtw_screen_loading_with_open_apis:
+  jira_id:
+  - FRUM-68732
+test_FRUM_71795_Restart_the_app_by_changing_storage_permissions:
+  jira_id:
+  - FRUM-71795
+test_FRUM_84396_wtw_navigate_right_perf:
+  jira_id:
+  - FRUM-84396
+test_FRUM_84398_wtw_navigate_down_perf:
+  jira_id:
+  - FRUM-84398
+test_frum_121777_wtw_screen_preview_description:
+  jira_id:
+  - FRUM-121777
+test_FRUM_84445_guide_navigate_down_perf:
+  jira_id:
+  - FRUM-84445
+test_FRUM_140041_guide_navigate_right_perf:
+  jira_id:
+  - FRUM-140041
+test_FRUM_84452_open_guide_with_button:
+  jira_id:
+  - FRUM-84452
+test_FRUM_84461_spinner_removed_in_search:
+  jira_id:
+  - FRUM-84461
+test_frum_121635_gude_already_recording_overlay_preview_title:
+  jira_id:
+  - FRUM-121635
+test_FRUM_84463_recording_option_overlay_expand:
+  jira_id:
+  - FRUM-84463
+test_FRUM_84477_whisper_message_for_creation_one_pass:
+  jira_id:
+  - FRUM-84477
+test_FRUM_84484_transition_into_series_screen:
+  jira_id:
+  - FRUM-84484
+test_FRUM_84485_enter_myshows_screen_perf:
+  jira_id:
+  - FRUM-84485
+test_FRUM_84492_enter_menu_screen_perf:
+  jira_id:
+  - FRUM-84492
+test_FRUM_84493_enter_search_screen_perf:
+  jira_id:
+  - FRUM-84493
+test_FRUM_84565_enter_guide_screen_perf:
+  jira_id:
+  - FRUM-84565
+test_FRUM_84566_enter_wtw_screen_perf:
+  jira_id:
+  - FRUM-84566
+test_FRUM_84567_launch_tivo_perf:
+  jira_id:
+  - FRUM-84567
+test_FRUM_84568_boot_device_perf:
+  jira_id:
+  - FRUM-84568
+test_FRUM_84569_enter_on_demand_screen_perf:
+  jira_id:
+  - FRUM-84569
+test_FRUM_91331_show_playback_inprogress_recording_performance:
+  jira_id:
+  - FRUM-91331
+test_FRUM_91332_show_playback_inprogress_recording_5_min_wait_performance:
+  jira_id:
+  - FRUM-91332
+test_FRUM_91690_show_playback_complete_recording_performance:
+  jira_id:
+  - FRUM-91690
+test_FRUM_91789_resume_partially_watched_playback_performance:
+  jira_id:
+  - FRUM-91789
+test_FRUM_93717_ndvr_record_and_playback_recorded_performance:
+  jira_id:
+  - FRUM-93717
+test_FRUM_93944_channel_up_in_livetv_encrypted_channel_performance:
+  jira_id:
+  - FRUM-93944
+test_FRUM_94145_direct_tune_hd_channel_performance:
+  jira_id:
+  - FRUM-94145
+test_FRUM_95012_vod_playback_performance:
+  jira_id:
+  - FRUM-95012
+test_T363050100_socu_operator_features_settings:
+  jira_id:
+  - FRUM-1215
+test_T395351290_operator_features:
+  jira_id:
+  - FRUM-1231
+test_T395744640_ndvr_operator_features_settings:
+  jira_id:
+  - FRUM-1347
+test_T403889704_drm_type_vod_verimatrix_to_widevine:
+  jira_id:
+  - FRUM-1416
+test_T486395020_voice_search_over_youtube_video:
+  jira_id:
+  - FRUM-54001
+test_T634292417_check_unique_serial_num:
+  jira_id:
+  - FRUM-1415
+test_T69584589_verify_watchTv_launches_socu:
+  jira_id:
+  - FRUM-1224
+test_ToDo_list_ordered:
+  jira_id:
+  - FRUM-305
+test_c10841799_up_down_vtp_vod_playback:
+  jira_id:
+  - FRUM-705
+test_c10841803_rew_ok_fwd_advance:
+  jira_id:
+  - FRUM-933
+test_c11121857_play_vod_movie:
+  jira_id:
+  - FRUM-814
+test_c11124063_c2c_search_non_episodic_content:
+  jira_id:
+  - FRUM-916
+test_c11124064_c5590550_c2c_search_episodic_content:
+  jira_id:
+  - FRUM-812
+test_c11124067_voice_feature_play_livetv_movie:
+  jira_id:
+  - FRUM-930
+test_c11400979_c605_error_overlay:
+  jira_id:
+  - FRUM-689
+test_c11400981_c608_error_overlay:
+  jira_id:
+  - FRUM-717
+test_c11400983_c630_error_overlay:
+  jira_id:
+  - FRUM-862
+test_c11400984_c631_error_overlay:
+  jira_id:
+  - FRUM-2403
+test_c11400985_c628_error_overlay:
+  jira_id:
+  - FRUM-755
+test_c11400986_c629_error_overlay:
+  jira_id:
+  - FRUM-807
+test_c11962189_ndvr_activate_cancel_reset:
+  jira_id:
+  - FRUM-963
+test_c13533955_throttle_bandwidth_1_5_Mbps:
+  jira_id:
+  - FRUM-867
+test_c13533957_throttle_bandwidth_5_0_Mbps:
+  jira_id:
+  - FRUM-1342
+test_c14094140_throttle_bandwidth_2_5_mbps:
+  jira_id:
+  - FRUM-1233
+test_c14391035_verify_playmode_after_rewind_for_inprogress_recording:
+  jira_id:
+  - FRUM-1333
+test_c20941134_c20941123_device_name_change:
+  jira_id:
+  - FRUM-1267
+test_c5313445_c5313450_license_plate_screen_onboarding:
+  jira_id:
+  - FRUM-877
+test_c5590554_movie_director:
+  jira_id:
+  - FRUM-973
+test_c5590564_kids_genre:
+  jira_id:
+  - FRUM-912
+test_c5593954_featured_app_sort_by_recency:
+  jira_id:
+  - FRUM-84691
+test_e2e_74113536_verify_toggling_between_livetv_channels:
+  jira_id:
+  - FRUM-180
+test_e2e_74127378_launch_device_settings_from_both_with_and_without_TiVo_app:
+  jira_id:
+  - FRUM-325
+test_e2e_74430886_launch_device_settings_using_GA:
+  jira_id:
+  - FRUM-328
+test_e2e_74482382_search_for_currently_airing_unentitled_program:
+  jira_id:
+  - FRUM-54009
+test_e2e_74501142_device_respond_for_info_and_accessibility_button:
+  jira_id:
+  - FRUM-54010
+test_frum4443_privacy_disabled_first_login:
+  jira_id:
+  - FRUM-4443
+test_frum6386_first_signin_optin_status_accept_all:
+  jira_id:
+  - FRUM-6386
+test_frum6398_first_signin_optin_status_do_not_allow_ads:
+  jira_id:
+  - FRUM-6398
+test_frum6399_first_signin_optin_status_do_not_allow_data_sharing:
+  jira_id:
+  - FRUM-6399
+test_frum6400_verify_ads_and_data_sharing_changes_in_settings:
+  jira_id:
+  - FRUM-6400
+test_frum66504_tune_to_unpurchased_show:
+  jira_id:
+  - FRUM-66504
+test_frum7149_first_signin_optout_status_accept_eula:
+  jira_id:
+  - FRUM-7149
+test_frum_103562_verify_program_time_on_info_bar_and_system_time:
+  jira_id:
+  - FRUM-103562
+test_frum_103570_verify_customer_support_name_resource_map_variable:
+  jira_id:
+  - FRUM-103570
+test_frum_108796_verify_parental_control_message_is_not_shown_when_it_is_not_blocked:
+  jira_id:
+  - FRUM-108796
+test_frum_114732_verify_tts_on_program_screen_and_demand_episode_strip:
+  jira_id:
+  - FRUM-114732
+test_frum_17940_check_1st_filter_my_shows_ndvr_on_off:
+  jira_id:
+  - FRUM-17940
+test_frum_18001_check_if_recordings_1st_filter_series_screen:
+  jira_id:
+  - FRUM-18001
+test_frum_18678_disconnect_change_tier_site_id_connect_domain_expir_vod_catalog_changed:
+  jira_id:
+  - FRUM-18678
+test_frum_18678_disconnect_change_tier_site_id_connect_domain_expir_vod_catalog_changed[False-False]:
+  jira_id:
+  - FRUM-18678
+test_frum_20481_checking_guide_cell_icons_guide_rows_req[new-False-False]:
+  jira_id:
+  - FRUM-20481
+test_frum_20481_checking_guide_cell_icons_guide_rows_req[new-True-False]:
+  jira_id:
+  - FRUM-20481
+test_frum_20481_checking_guide_cell_icons_guide_rows_req[non_rec_pg-False-False]:
+  jira_id:
+  - FRUM-20498
+test_frum_20481_checking_guide_cell_icons_guide_rows_req[non_rec_pg-True-False]:
+  jira_id:
+  - FRUM-20498
+test_frum_20481_checking_guide_cell_icons_guide_rows_req[non_req_crr-False-False]:
+  jira_id:
+  - FRUM-25238
+test_frum_20481_checking_guide_cell_icons_guide_rows_req[non_req_crr-True-False]:
+  jira_id:
+  - FRUM-25238
+test_frum_20481_checking_guide_cell_icons_guide_rows_req[ppv-False-False]:
+  jira_id:
+  - FRUM-20468
+test_frum_20481_checking_guide_cell_icons_guide_rows_req[ppv-True-False]:
+  jira_id:
+  - FRUM-20468
+test_frum_20481_checking_guide_cell_icons_guide_rows_req[socu-False-False]:
+  jira_id:
+  - FRUM-20441
+test_frum_20481_checking_guide_cell_icons_guide_rows_req[socu-True-False]:
+  jira_id:
+  - FRUM-20441
+test_frum_21977_verify_guide_and_livetv_when_service_is_down_after_reboot:
+  jira_id:
+  - FRUM-21977
+test_frum_21978_verify_olg_channel_options_overlay_when_servive_is_down_after_reboot:
+  jira_id:
+  - FRUM-21978
+test_frum_24573_verify_home_actions_when_service_is_down_after_reboot:
+  jira_id:
+  - FRUM-24573
+test_frum_26872_socu_nsr_retry_policy_fast_feature_status_update:
+  jira_id:
+  - FRUM-26872
+test_frum_26872_socu_nsr_retry_policy_fast_feature_status_update[NSR-True-clientsocu-clientSocu]:
+  jira_id:
+  - FRUM-26872
+test_frum_28643_active_client_disconnect_connect_check_reconnect_between_1_and_5_min:
+  jira_id:
+  - FRUM-28643
+test_frum_28644_non_active_client_disconnect_connect_check_reconnect_between_5_and_15_min:
+  jira_id:
+  - FRUM-28644
+test_frum_28697_active_client_disconnect_non_active_connect_check_reconnect_between_5_and_15_min:
+  jira_id:
+  - FRUM-28697
+test_frum_31978_linear_playback_restricted_device_type_check_with_mso_true:
+  jira_id:
+  - FRUM-31978
+test_frum_31980_linear_playback_restricted_device_type_check_with_mso_false:
+  jira_id:
+  - FRUM-31980
+test_frum_31983_linear_playback_restricted_device_type_check_with_mso_blank:
+  jira_id:
+  - FRUM-31983
+test_frum_31995_linear_playback_not_restricted_device_type_check_with_mso_true:
+  jira_id:
+  - FRUM-31995
+test_frum_31996_linear_playback_not_restricted_device_type_check_with_mso_false:
+  jira_id:
+  - FRUM-31996
+test_frum_31997_linear_playback_not_restricted_device_type_check_with_mso_blank:
+  jira_id:
+  - FRUM-31997
+test_frum_32021_ndvr_playback_restricted_device_type_check_with_mso_true:
+  jira_id:
+  - FRUM-32021
+test_frum_32022_ndvr_playback_restricted_device_type_check_with_mso_false:
+  jira_id:
+  - FRUM-32022
+test_frum_32023_ndvr_playback_restricted_device_type_check_with_mso_none:
+  jira_id:
+  - FRUM-32023
+test_frum_32026_ndvr_playback_not_restricted_device_type_check_with_mso_true:
+  jira_id:
+  - FRUM-32026
+test_frum_32027_ndvr_playback_not_restricted_device_type_check_with_mso_false:
+  jira_id:
+  - FRUM-32027
+test_frum_32041_ndvr_playback_not_restricted_device_type_check_with_mso_none:
+  jira_id:
+  - FRUM-32041
+test_frum_32065_start_over_playback_restricted_device_type_check_with_mso_true:
+  jira_id:
+  - FRUM-32065
+test_frum_32067_start_over_playback_restricted_device_type_check_with_mso_false:
+  jira_id:
+  - FRUM-32067
+test_frum_32069_start_over_playback_restricted_device_type_check_with_mso_blank:
+  jira_id:
+  - FRUM-32069
+test_frum_32073_start_over_playback_not_restricted_device_type_check_with_mso_false:
+  jira_id:
+  - FRUM-32073
+test_frum_32075_start_over_playback_not_restricted_device_type_check_with_mso_blank:
+  jira_id:
+  - FRUM-32075
+test_frum_32087_catch_up_playback_restricted_device_type_check_with_mso_false:
+  jira_id:
+  - FRUM-32087
+test_frum_32089_catch_up_playback_restricted_device_type_check_with_mso_blank:
+  jira_id:
+  - FRUM-32089
+test_frum_32091_catch_up_playback_not_restricted_device_type_check_with_mso_true:
+  jira_id:
+  - FRUM-32091
+test_frum_32094_catch_up_playback_not_restricted_device_type_check_with_mso_false:
+  jira_id:
+  - FRUM-32094
+test_frum_32096_catch_up_playback_not_restricted_device_type_check_with_mso_blank:
+  jira_id:
+  - FRUM-32096
+test_frum_32627_checking_olg_tile_icons_olg_req[new-False-True]:
+  jira_id:
+  - FRUM-32627
+test_frum_32627_checking_olg_tile_icons_olg_req[new-True-True]:
+  jira_id:
+  - FRUM-32627
+test_frum_32627_checking_olg_tile_icons_olg_req[non_rec_pg-False-True]:
+  jira_id:
+  - FRUM-26521
+test_frum_32627_checking_olg_tile_icons_olg_req[non_rec_pg-True-True]:
+  jira_id:
+  - FRUM-26521
+test_frum_32627_checking_olg_tile_icons_olg_req[non_req_crr-False-True]:
+  jira_id:
+  - FRUM-26521
+test_frum_32627_checking_olg_tile_icons_olg_req[non_req_crr-True-True]:
+  jira_id:
+  - FRUM-26521
+test_frum_32627_checking_olg_tile_icons_olg_req[ppv-False-True]:
+  jira_id:
+  - FRUM-32627
+test_frum_32627_checking_olg_tile_icons_olg_req[ppv-True-True]:
+  jira_id:
+  - FRUM-32627
+test_frum_32971_start_over_playback_not_restricted_device_type_check_with_mso_true:
+  jira_id:
+  - FRUM-32971
+test_frum_32977_catch_up_playback_restricted_device_type_check_with_mso_true:
+  jira_id:
+  - FRUM-32977
+test_frum_34739_verify_no_message_after_deleting_it_on_service:
+  jira_id:
+  - FRUM-34739
+test_frum_39241_device_feature_search_update[False-False-True]:
+  jira_id:
+  - FRUM-1341
+test_frum_39241_device_feature_search_update[True-False-False]:
+  jira_id:
+  - FRUM-39267
+test_frum_3_verify_uhd_icon_for_4k_channels_in_guide:
+  jira_id:
+  - FRUM-3
+test_frum_42699_distribtuion_name_validation_use_case_1:
+  jira_id:
+  - FRUM-42699
+test_frum_42699_distribtuion_name_validation_use_case_2:
+  jira_id:
+  - FRUM-42699
+test_frum_43032_verify_pin_challenge_on_audio_settings:
+  jira_id:
+  - FRUM-43032
+test_frum_43806_cable_provider_branding_unsusbcribed_channel:
+  jira_id:
+  - FRUM-43806
+test_frum_43807_livetv_png_validation_lite_branding:
+  jira_id:
+  - FRUM-43807
+test_frum_44656_verify_pin_challenge_on_onepass_manager:
+  jira_id:
+  - FRUM-44656
+test_frum_45430_jump_channels_listed_by_mso:
+  jira_id:
+  - FRUM-45430
+test_frum_48457_ftux_tutorial_video_completion:
+  jira_id:
+  - FRUM-48457
+test_frum_51350_verify_recordings_sort_by_name:
+  jira_id:
+  - FRUM-51350
+test_frum_59064_verify_user_to_play_three_hour_movies:
+  jira_id:
+  - FRUM-59064
+test_frum_59926_verify_user_can_switch_channels_on_oneline_guide_by_up_and_down_key_press:
+  jira_id:
+  - FRUM-59926
+test_frum_61729_Assert_continue_and_verify_the_crash_signature:
+  jira_id:
+  - FRUM-61729
+test_frum_62298_url_customer_support:
+  jira_id:
+  - FRUM-62298
+test_frum_62304_primary_branding:
+  jira_id:
+  - FRUM-62304
+test_frum_62329_attributes_values_after_suspend_the_account:
+  jira_id:
+  - FRUM-62329
+test_frum_62908_verify_wtw_tiles_time_info_mso_pig_and_image_posters_for_movies:
+  jira_id:
+  - FRUM-62908
+test_frum_6387_change_tier_site_id_cancel_re_activate_device_vod_catalog_changed:
+  jira_id:
+  - FRUM-6387
+test_frum_6387_change_tier_site_id_cancel_re_activate_device_vod_catalog_changed[False-True]:
+  jira_id:
+  - FRUM-6387
+test_frum_6481_change_tier_site_id_internet_reconnect_vod_catalog_changed:
+  jira_id:
+  - FRUM-6481
+test_frum_6481_change_tier_site_id_internet_reconnect_vod_catalog_changed[False-False]:
+  jira_id:
+  - FRUM-6456
+test_frum_6481_change_tier_site_id_internet_reconnect_vod_catalog_changed[False-True]:
+  jira_id:
+  - FRUM-6481
+test_frum_66359_ability_to_launch_and_exit_HBOMAX_app_bail_buttons:
+  jira_id:
+  - FRUM-66359
+test_frum_68083_ability_to_launch_and_exit_disney_plus_app_bail_buttons:
+  jira_id:
+  - FRUM-68083
+test_frum_68514_verify_channel_change_across_all_channels_including_error_channel:
+  jira_id:
+  - FRUM-68514
+test_frum_69378_channel_zapping_after_enable_parental_control:
+  jira_id:
+  - FRUM-69378
+test_frum_69408_Restart_the_device_from_the_device_setting_option:
+  jira_id:
+  - FRUM-69408
+test_frum_69409_Restart_the_device_by_adb_reboot:
+  jira_id:
+  - FRUM-69409
+test_frum_69411_Clear_data_and_open_the_app:
+  jira_id:
+  - FRUM-69411
+test_frum_69413_Force_Stop_and_open_the_tivo_app:
+  jira_id:
+  - FRUM-69413
+test_frum_69414_Change_the_language_in_the_app:
+  jira_id:
+  - FRUM-69414
+test_frum_69418_Exit_and_relaunch_the_app:
+  jira_id:
+  - FRUM-69418
+test_frum_69419_signOut_and_relaunch_the_app:
+  jira_id:
+  - FRUM-69419
+test_frum_69420_Assert_Restart_and_verify_the_crash_signature:
+  jira_id:
+  - FRUM-69420
+test_frum_69421_tombstone_and_verify_the_crash_signature:
+  jira_id:
+  - FRUM-69421
+test_frum_69423_Assert_and_verify_the_crash_signature:
+  jira_id:
+  - FRUM-69423
+test_frum_69424_ANR_and_verify_the_crash_signature:
+  jira_id:
+  - FRUM-69424
+test_frum_69425_ANR_by_out_of_memory_and_verify_the_crash_signature:
+  jira_id:
+  - FRUM-69425
+test_frum_69426_Haxe_app_died_and_verify_the_crash_signature:
+  jira_id:
+  - FRUM-69426
+test_frum_69427_Haxe_app_crash_and_verify_the_crash_signature:
+  jira_id:
+  - FRUM-69427
+test_frum_69601_verify_tips_and_tricks_on_youtube_on_supported_device:
+  jira_id:
+  - FRUM-69601
+test_frum_69625_Java_crash_and_verify_the_crash_signature:
+  jira_id:
+  - FRUM-69625
+test_frum_71767_verify_twenty_four_hours_continuous_playback:
+  jira_id:
+  - FRUM-71767
+test_frum_75168_my_shows_filter_stickiness_kids:
+  jira_id:
+  - FRUM-75168
+test_frum_75168_my_shows_filter_stickiness_movies:
+  jira_id:
+  - FRUM-75168
+test_frum_75171_special_group_stickiness:
+  jira_id:
+  - FRUM-75171
+test_frum_75195_my_shows_filter_with_predetermined_sort_order:
+  jira_id:
+  - FRUM-75195
+test_frum_76614_verify_netflix_from_guide_and_nav_back:
+  jira_id:
+  - FRUM-76614
+test_frum_79155_back_to_home:
+  jira_id:
+  - FRUM-79155
+test_frum_81060_verify_prime_from_guide_and_nav_back:
+  jira_id:
+  - FRUM-81060
+test_frum_81544_verify_vudu_from_guide_and_nav_back:
+  jira_id:
+  - FRUM-81544
+test_frum_81938_verify_recordings_sort_by_date:
+  jira_id:
+  - FRUM-81938
+test_frum_82449_verify_google_play_from_guide_and_nav_back:
+  jira_id:
+  - FRUM-82449
+test_frum_84386_verify_starz_from_guide_and_nav_back:
+  jira_id:
+  - FRUM-84386
+test_frum_91268_launch_netflix_and_verify_source_type:
+  jira_id:
+  - FRUM-91268
+test_frum_91273_launch_netflix_from_GA_and_verify_source_type:
+  jira_id:
+  - FRUM-91273
+test_frum_91278_create_onepass_of_netflix_shows_and_launch_netflix_from_series_screen:
+  jira_id:
+  - FRUM-91278
+test_frum_91279_open_netflix_from_olg:
+  jira_id:
+  - FRUM-91279
+test_frum_91280_launch_netflix_from_channel_surf:
+  jira_id:
+  - FRUM-91280
+test_frum_91284_launch_netflix_from_prediction_bar:
+  jira_id:
+  - FRUM-91284
+test_frum_91293_launch_netflix_from_action_screen:
+  jira_id:
+  - FRUM-91293
+test_frum_91303_launch_netflix_from_guide:
+  jira_id:
+  - FRUM-91303
+test_frum_91306_verify_netflix_source_type_from_search:
+  jira_id:
+  - FRUM-91306
+test_frum_91308_verify_error_msg_displayed_after_recovering_item_when_storage_is_full:
+  jira_id:
+  - FRUM-91308
+test_frum_91309_fill_internal_memory_and_clear_data_launch_app:
+  jira_id:
+  - FRUM-91309
+test_frum_91312_verify_recording_folder_is_visible:
+  jira_id:
+  - FRUM-91312
+test_frum_91316_verify_watch_now_option_visible_after_token_expired:
+  jira_id:
+  - FRUM-91316
+test_frum_91317_channel_up_down_to_get_service_calls:
+  jira_id:
+  - FRUM-91317
+test_frum_91568_verify_recording_with_NO_padding:
+  jira_id:
+  - FRUM-91568
+test_frum_115689_verify_recording_with_NO_padding_from_long_term_storage:
+  jira_id:
+  - FRUM-115689
+test_frum_115915_verify_recording_with_start_and_stop_recording_padding_long_term_storage:
+  jira_id:
+  - FRUM-115915
+test_demo_parameterized_signin_overlay_test:
+  jira_id:
+  - FRUM-142493
+test_frum_91636_verify_favorite_channels_on_channel_cell:
+  jira_id:
+  - FRUM-91636
+test_frum_9392_pps_lite_change_tier_site_id_restart_hydra_vod_catalog_changed:
+  jira_id:
+  - FRUM-9392
+test_frum_9392_pps_lite_change_tier_site_id_restart_hydra_vod_catalog_changed[False-True]:
+  jira_id:
+  - FRUM-5209
+test_frum_9392_pps_lite_change_tier_site_id_restart_hydra_vod_catalog_changed[True-True]:
+  jira_id:
+  - FRUM-9392
+test_frum_94115_verify_socu_possible_trickplay:
+  jira_id:
+  - FRUM-94115
+test_frum_94800_verify_rewind_speed:
+  jira_id:
+  - FRUM-94800
+test_frum_98270_verify_device_name_resource_map_variable:
+  jira_id:
+  - FRUM-98270
+test_frum_99598_verify_user_navigate_back_same_place_from_OTT_part1:
+  jira_id:
+  - FRUM-99598
+test_launch_peacock_check_foreground_pkg:
+  jira_id:
+  - FRUM-84229
+test_open_app_by_GA_C2C:
+  jira_id:
+  - FRUM-104439
+test_playback_from_apps:
+  jira_id:
+  - FRUM-41
+  suite: sanity
+test_t389366309_unplug_hdmi_whileon_LiveTV:
+  jira_id:
+  - FRUM-57666
+test_t389366327_preview_panel_in_netflix_originals:
+  jira_id:
+  - FRUM-2420
+test_t389366328_netflix_originals:
+  jira_id:
+  - FRUM-2412
+test_t389366339_audioonly_channel_create_onepass:
+  jira_id:
+  - FRUM-1228
+test_t389366360_appbehaviour_onsearching_netflixmovie_while_netflix_disabled:
+  jira_id:
+  - FRUM-2456
+test_t519533376_socu_feature_status_true:
+  jira_id:
+  - FRUM-20441
+test_t519533376_socu_feature_status_true_device_info_store_feature:
+  jira_id:
+  - FRUM-1380
+test_t519533377_socu_feature_status_false:
+  jira_id:
+  - FRUM-20461
+test_t519533377_socu_feature_status_false_device_info_store_feature:
+  jira_id:
+  - FRUM-1391
+test_t777753846_verify_user_able_to_launch_pandora_from_apps_and_games:
+  jira_id:
+  - FRUM-63350
+test_t777753912_verify_user_able_to_launch_pluto_from_apps_and_games:
+  jira_id:
+  - FRUM-78246
+test_t777753928_verify_user_able_to_launch_youtube_kids_from_apps_and_games:
+  jira_id:
+  - FRUM-87236
+test_t777753996_hbomax_application_launch:
+  jira_id:
+  - FRUM-89479
+test_t777754006_verify_user_able_to_launch_pbs_kids_from_apps_and_games:
+  jira_id:
+  - FRUM-63372
+test_tivoplus_switch_between_channels:
+  jira_id:
+  - FRUM-33049
+test_tivoplus_tune_to_channel_from_OLG:
+  jira_id:
+  - FRUM-33139
+test_verify_20951468_navigations_on_trickplay_when_in_ffwd3:
+  jira_id:
+  - FRUM-1220
+test_verify_wtw_free_movie_and_Tv_has_free_content:
+  jira_id:
+  - FRUM-1243
+test_xtq_53278_bind_hsn:
+  jira_id:
+  - FRUM-54013
+  - FRUM-57695
+test_e2e_358263_verify_trickplay_modes_for_socu_offer:
+  jira_id:
+  - FRUM-108470
+test_frum_119781_play_recording_from_guide_record_overlay:
+  jira_id:
+   - FRUM-59962
+test_frum918_record_playback_delete_movie:
+  jira_id:
+  - FRUM-918
+test_frum_127112_switch_between_app_playback_and_standby_multiple_times:
+  jira_id:
+  - FRUM-127112
+test_64781_guide_button_on_screen_saver:
+  jira_id:
+  - FRUM-64781
+test_64771_global_ads_and_user_preference:
+  jira_id:
+  - FRUM-64771
+test_launch_Pbs_Kids_app_check_foreground_pkg:
+  jira_id:
+    - FRUM-84189
+test_10950_resiliency_mode_screensaver_netflix:
+  jira_id:
+  - FRUM-10950
+test_10947_resiliency_mode_jump_channel_from_guide_olg:
+  jira_id:
+  - FRUM-10947
+test_frum_128331_voice_search_sports_team:
+  jira_id:
+  - FRUM-128331
+test_22073_resiliency_mode_ndvr_socu_vod:
+  jira_id:
+    - FRUM-22073
+
+test_126733_set_purchase_pin_on_purchase_currently_airing_show:
+  jira_id:
+  - FRUM-126733
+
+test_128880_check_livetv_4k_resolution:
+  jira_id:
+  - FRUM-128880
+
+test_FRUM_127813_delete_program_from_watchlist_by_delete_icon:
+  jira_id:
+  - FRUM-127813
+test_72511_service_call_when_tivo_background:
+  jira_id:
+  - FRUM-72511
+test_69381_disconnected_state_with_bail_buttons:
+  jira_id:
+    - FRUM-69381
+test_69446_edit_fav_channel_nwk_down_up_check_fav_panel:
+  jira_id:
+    - FRUM-69446
+test_frum_130428_hevc_linear_playback:
+  jira_id:
+    - FRUM-130428
+test_frum_130431_hevc_socu_playback:
+  jira_id:
+    - FRUM-130431
+test_frum_130432_hevc_nDVR_playback:
+  jira_id:
+    - FRUM-130432
+
+test_121244_verify_pc_lock_icon_after_language_change:
+  jira_id:
+    - FRUM-121244
+
+test_frum76071_pressing_netflix_button_in_privacy_optin:
+  jira_id:
+    - FRUM-76071
+test_stop_streaming_four_hours_continuous_playback:
+  jira_id:
+    - FRUM-70751
+test_10954_18614_pc_behaviour_when_tivo_services_down:
+  jira_id:
+  - FRUM-18614
+test_11216_resiliency_mode_tivo_plus:
+  jira_id:
+  - FRUM-11216
+test_11232_pluto_tv_service_down:
+  jira_id:
+  - FRUM-11232
+test_12044_get_pluto_tv_channel_create_bookmark_play_from_myshows:
+  jira_id:
+  - FRUM-12044
+test_14386508_trigger_EAS_alert_on_screensaver_end_return_back_to_screensaver:
+  jira_id:
+  - FRUM-1280
+test_19028_Send_ServiceCall_and_trigger_C2C:
+  jira_id:
+  - FRUM-19033
+test_19028_Send_ServiceCall_and_trigger_EAS:
+  jira_id:
+  - FRUM-19028
+test_20959161_verify_select_restart_now_and_check_service_login_date:
+  jira_id:
+  - FRUM-1269
+test_20959168_verify_select_refresh_acc_and_usr_data_and_check_service_login_date:
+  jira_id:
+  - FRUM-1293
+test_20959476_verify_push_notification_purchase_pin_not_shown_in_pc_settings:
+  jira_id:
+  - FRUM-1331
+test_56809_hero_promo:
+  jira_id:
+  - FRUM-56809
+test_57604_Tubi_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-57604
+test_57622_uncheck_tubi_and_deeplink_from_search:
+  jira_id:
+  - FRUM-57622
+test_57992_search_and_nav_peacock_wtw_upcoming:
+  jira_id:
+  - FRUM-57992
+test_58003_deeplink_peacock_from_may_also_like_screen:
+  jira_id:
+  - FRUM-58003
+test_59972_mgm_plus_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-59972
+test_59975_mgm_plus_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-59975
+test_59976_verify_mgm_plus_app_is_not_installed:
+  jira_id:
+  - FRUM-59976
+test_59980_uncheck_mgm_plus_and_deeplink_from_search:
+  jira_id:
+  - FRUM-59980
+test_64519_Discovery_Plus_deeplinking_av_playback_series:
+  jira_id:
+  - FRUM-64519
+test_64539_HBOMAX_deeplinking_av_playback_movie:
+  jira_id:
+  - FRUM-64539
+test_64546_verify_HBOMAX_app_is_not_installed:
+  jira_id:
+  - FRUM-64546
+test_64562_uncheck_HBOMAX_and_deeplink_from_search:
+  jira_id:
+  - FRUM-64562
+test_64590_verify_Discovery_Plus_app_is_not_installed:
+  jira_id:
+  - FRUM-64590
+test_64593_uncheck_Discovery_PLUS_and_deeplink_from_search:
+  jira_id:
+  - FRUM-64593
+test_84189_launch_Pbs_Kids_app_check_foreground_pkg:
+  jira_id:
+  - FRUM-84189
+test_84212_launch_disneyPlus_check_foreground_pkg:
+  jira_id:
+  - FRUM-84212
+test_84220_launch_Discovery_Plus_app_check_foreground_pkg:
+  jira_id:
+  - FRUM-84220
+test_84225_launch_mgm_plus_check_foreground_pkg:
+  jira_id:
+  - FRUM-84225
+test_FRUM_128280_verify_recording_with_start_recording_padding:
+  jira_id:
+  - FRUM-128280
+test_frum72222_verify_mywanipaddress_fetched_on_device_reboot:
+  jira_id:
+  - FRUM-72222
+test_frum_109306_verify_excluded_partners_not_shown_in_guide_header_preview_ftux:
+  jira_id:
+  - FRUM-109306
+test_frum_10947_resiliency_mode_jump_channel_from_guide_olg:
+  jira_id:
+  - FRUM-10947
+test_frum_10950_resiliency_mode_screensaver_netflix:
+  jira_id:
+  - FRUM-10950
+test_frum_112770_verify_the_behaviour_when_notification_access_is_turned_ON:
+  jira_id:
+  - FRUM-112770
+test_frum_112771_verify_the_behaviour_when_notification_access_is_turned_OFF:
+  jira_id:
+  - FRUM-112771
+test_frum_115151_verify_one_line_guide_preview_description:
+  jira_id:
+  - FRUM-115151
+test_frum_115770_verify_brandingbundle_fetched_on_device_reboot:
+  jira_id:
+  - FRUM-115770
+test_frum_118630_verify_info_card_preview_description:
+  jira_id:
+  - FRUM-118630
+test_frum_18687_switch_btw_aac_and_ac3:
+  jira_id:
+  - FRUM-18687
+test_frum_26550_verify_program_screen_preview_1st_aired_date:
+  jira_id:
+  - FRUM-26550
+test_frum_26550_verify_program_screen_preview_description:
+  jira_id:
+  - FRUM-26550
+test_frum_26550_verify_program_screen_preview_genre:
+  jira_id:
+  - FRUM-26550
+test_frum_26550_verify_program_screen_preview_show_attributes:
+  jira_id:
+  - FRUM-26550
+test_frum_26550_verify_program_screen_preview_star_rating:
+  jira_id:
+  - FRUM-26550
+test_frum_26550_verify_program_screen_preview_start_end_date:
+  jira_id:
+  - FRUM-26550
+test_frum_26550_verify_program_screen_preview_subtitle:
+  jira_id:
+  - FRUM-26550
+test_frum_26550_verify_program_screen_preview_title:
+  jira_id:
+  - FRUM-26550
+test_frum_26550_verify_program_screen_preview_tv_rating:
+  jira_id:
+  - FRUM-26550
+test_frum_26902_checking_record_overlay_preview_info_button_1st_aired_date:
+  jira_id:
+  - FRUM-26902
+test_frum_26902_checking_record_overlay_preview_info_button_description:
+  jira_id:
+  - FRUM-26902
+test_frum_26902_checking_record_overlay_preview_info_button_genre:
+  jira_id:
+  - FRUM-26902
+test_frum_26902_checking_record_overlay_preview_info_button_non_recordable:
+  jira_id:
+  - FRUM-26902
+test_frum_26902_checking_record_overlay_preview_info_button_ppv_message:
+  jira_id:
+  - FRUM-26902
+test_frum_26902_checking_record_overlay_preview_info_button_show_attributes:
+  jira_id:
+  - FRUM-26902
+test_frum_26902_checking_record_overlay_preview_info_button_star_rating:
+  jira_id:
+  - FRUM-26902
+test_frum_26902_checking_record_overlay_test_C13234011_wtw_hero_promo_ad_leads_to_VOD_screen:
+  jira_id:
+  - FRUM-1294
+test_frum_26902_checking_record_overlay_preview_info_button_start_end_date:
+  jira_id:
+  - FRUM-26902
+test_frum_26902_checking_record_overlay_preview_info_button_subtitle:
+  jira_id:
+  - FRUM-26902
+test_frum_26902_checking_record_overlay_preview_info_button_title:
+  jira_id:
+  - FRUM-26902
+test_frum_26902_checking_record_overlay_preview_info_button_tv_rating:
+  jira_id:
+  - FRUM-26902
+test_frum_32677_verify_excluded_partners_not_shown_in_guide_header_preview_settings_video_providers:
+  jira_id:
+  - FRUM-32677
+test_frum_39241_device_feature_search_update:
+  jira_id:
+  - FRUM-39267
+test_frum_48289_c219_error_recovering_guide_screen:
+  jira_id:
+  - FRUM-48289
+test_frum_48551_verify_hospitality_view:
+  jira_id:
+  - FRUM-48551
+test_frum_589532_application_playback_screen_saver:
+  jira_id:
+  - FRUM-87236
+test_frum_86806_verify_SLS_request_in_logs_PQCM_cache_valid:
+  jira_id:
+  - FRUM-86806
+test_frum_86809_verify_SLS_file_in_storage_PQCM_cache_valid:
+  jira_id:
+  - FRUM-86809
+test_frum_86811_verify_SLS_file_in_storage_PQCM_cache_expired:
+  jira_id:
+  - FRUM-86811
+test_frum_86812_verify_SLS_request_in_logs_PQCM_cache_expired:
+  jira_id:
+  - FRUM-86812
+test_frum_91285_launch_netflix_from_jump_channel:
+  jira_id:
+  - FRUM-91285
+test_frum_91572_verify_recording_with_stop_recording_padding:
+  jira_id:
+  - FRUM-91568
+test_frum_93222_verify_recording_with_start_and_stop_recording_padding:
+  jira_id:
+  - FRUM-93222
+test_frum_93443_c228_error_booting_with_cache_recovering:
+  jira_id:
+  - FRUM-93443
+test_frum_93446_c229_error_booting_with_cache_recovering:
+  jira_id:
+  - FRUM-93446
+test_frum_95524_c228_sleep_mode:
+  jira_id:
+  - FRUM-95524
+test_frum_95526_c219_sleep_mode:
+  jira_id:
+  - FRUM-95526
+test_frum_95531_c228_sleep_mode_recovering:
+  jira_id:
+  - FRUM-95531
+test_frum_95533_c219_sleep_mode_recovering:
+  jira_id:
+  - FRUM-95533
+test_launch_HBO_MAX_check_foreground_pkg:
+  jira_id:
+  - FRUM-84191
+test_unmapped_series_poster:
+  jira_id:
+  - FRUM-19240
+test_10464399_purchase_pin_from_body_config_to_feature_status:
+  jira_id:
+  - FRUM-135037
+test_10464412_socu_from_body_config_to_feature_status:
+  jira_id:
+  - FRUM-135037
+test_10464414_voice_from_body_config_to_feature_status:
+  jira_id:
+  - FRUM-135037
+test_10464416_ipppv_from_body_config_to_feature_status:
+  jira_id:
+  - FRUM-135037
+test_1234567_limit_download_speed_with_ip:
+  jira_id:
+  - FRUM-135037
+test_1234567_update_yukon_url:
+  jira_id:
+  - FRUM-135037
+test_12345_verify_stop_streaming_tv_on_off_while_netflix_playback:
+  jira_id:
+  - FRUM-135037
+test_1234_expire_service_token_and_perform_login:
+  jira_id:
+  - FRUM-135037
+test_12786348_nDVR_Completed_Recordings_Verimatrixordefault:
+  jira_id:
+  - FRUM-135037
+test_1_longpress_keyevent_server:
+  jira_id:
+  - FRUM-135037
+test_1_test_dumping:
+  jira_id:
+  - FRUM-135037
+test_20930780_inactivity_timeout_in_live_tv:
+  jira_id:
+  - FRUM-135037
+test_20959170_verify_push_notification_ndvr_overlay:
+  jira_id:
+  - FRUM-135037
+test_20959886_voice_fast_feature_status_update:
+  jira_id:
+  - FRUM-135037
+test_20959892_ipppv_fast_feature_status_update:
+  jira_id:
+  - FRUM-135037
+test_20959896_socu_fast_feature_status_update:
+  jira_id:
+  - FRUM-135037
+test_214969645_launch_ott_source_from_search:
+  jira_id:
+  - FRUM-135037
+test_21571809_service_call_disconnect_nsr_connect:
+  jira_id:
+  - FRUM-135037
+test_269366_change_audio_track_from_info_banner:
+  jira_id:
+  - FRUM-135037
+test_2_dump_stability_on_transition:
+  jira_id:
+  - FRUM-135037
+test_323410_select_tv_series_tab:
+  jira_id:
+  - FRUM-135037
+test_323415_select_movies_tab:
+  jira_id:
+  - FRUM-135037
+test_323416_select_sports_tab:
+  jira_id:
+  - FRUM-135037
+test_323719_guide_verify_overlay:
+  jira_id:
+  - FRUM-135037
+test_323720_guide_watch_channel:
+  jira_id:
+  - FRUM-135037
+test_323740_guide_nav_to_channel:
+  jira_id:
+  - FRUM-135037
+test_324360_home_menu:
+  jira_id:
+  - FRUM-135037
+test_324770_text_alphabetical_search:
+  jira_id:
+  - FRUM-135037
+test_324771_text_numeric_search:
+  jira_id:
+  - FRUM-135037
+test_324772_text_delete_reenter:
+  jira_id:
+  - FRUM-135037
+test_325060_verify_build_and_branch:
+  jira_id:
+  - FRUM-135037
+test_325125_home_predictions:
+  jira_id:
+  - FRUM-135037
+test_326129_navigate_from_home_to_menu_settings:
+  jira_id:
+  - FRUM-135037
+test_326135_select_menu_onepass_manager:
+  jira_id:
+  - FRUM-135037
+test_326138_select_menu_settings_user_preference:
+  jira_id:
+  - FRUM-135037
+test_326139_select_settings_signout:
+  jira_id:
+  - FRUM-135037
+test_326140_select_menu_help_account_and_system:
+  jira_id:
+  - FRUM-135037
+test_326159_select_movies_tab:
+  jira_id:
+  - FRUM-135037
+test_326330_guide_nav_to_on_now_on_channel:
+  jira_id:
+  - FRUM-135037
+test_326330_launch_guide_and_watch_live_tv:
+  jira_id:
+  - FRUM-135037
+test_326332_guide_record_from_on_now_on_channel:
+  jira_id:
+  - FRUM-135037
+test_327520_select_movies_tab:
+  jira_id:
+  - FRUM-135037
+test_329956_voice_search_call:
+  jira_id:
+  - FRUM-135037
+test_330093_home_menu_widget_over_liveTV:
+  jira_id:
+  - FRUM-135037
+test_330098_home_livetv:
+  jira_id:
+  - FRUM-135037
+test_347944_inital_populations_of_predicitons:
+  jira_id:
+  - FRUM-135037
+test_365012_exit_playback_from_my_shows:
+  jira_id:
+  - FRUM-135037
+test_393520_create_bookmark_from_guide:
+  jira_id:
+  - FRUM-135037
+test_4757101_verify_tts_on_vod_movie_screen:
+  jira_id:
+  - FRUM-135037
+test_4k_live_long_streaming_vqat:
+  jira_id:
+  - FRUM-135037
+test_4k_live_longevity_temperature:
+  jira_id:
+  - FRUM-135037
+test_4k_ndvr_long_streaming_vqat:
+  jira_id:
+  - FRUM-135037
+test_4k_socu_long_streaming_vqat:
+  jira_id:
+  - FRUM-135037
+test_4k_vod_long_streaming_vqat:
+  jira_id:
+  - FRUM-135037
+test_73634_movies_filter_displayed:
+  jira_id:
+  - FRUM-135037
+test_74094935_verify_smooth_transition_between_apps:
+  jira_id:
+  - FRUM-135037
+test_74209771_verify_rewind_mode_for_livetv_show:
+  jira_id:
+  - FRUM-135037
+test_74362881_verify_pause_fastforward_modes_for_livetv_show:
+  jira_id:
+  - FRUM-135037
+test_74367571_verify_rewind_fastforward_modes_for_ndvr_recording:
+  jira_id:
+  - FRUM-135037
+test_74379296_verify_livetv_for_two_airing_shows:
+  jira_id:
+  - FRUM-135037
+test_74395711_create_onepass_for_ndvr_program:
+  jira_id:
+  - FRUM-135037
+test_9390460_trigger_canadian_EAS_alert_full_screen:
+  jira_id:
+  - FRUM-135037
+test_999999_home_demo_test:
+  jira_id:
+  - FRUM-135037
+test_C12786350_nDVR_widevine_to_verimatrix:
+  jira_id:
+  - FRUM-135037
+test_C12786351_C12787148_nDVR_Completed_Recordings_Widevineornative_to_Verimatrixordefault:
+  jira_id:
+  - FRUM-135037
+test_C12947446_drm_type_iplinear_native_playback:
+  jira_id:
+  - FRUM-135037
+test_CA_10827_add_svod_remove_svod_deactivate_vod:
+  jira_id:
+  - FRUM-135037
+test_FRUM_11_4k_video_window_playback:
+  jira_id:
+  - FRUM-135037
+test_FRUM_121928_switch_between_HDR10_non_HDR10_channel:
+  jira_id:
+  - FRUM-135037
+test_FRUM_121928_toggle_HDR10_non_HDR10_recording:
+  jira_id:
+  - FRUM-135037
+test_FRUM_14_trickplay_action_on_4k_ndvr_content:
+  jira_id:
+  - FRUM-135037
+test_FRUM_14_trickplay_action_on_4k_socu_content:
+  jira_id:
+  - FRUM-135037
+test_FRUM_22_verify_24_frames_on_livetv_playback:
+  jira_id:
+  - FRUM-135037
+test_FRUM_29_verify_30_frames_on_livetv_playback:
+  jira_id:
+  - FRUM-135037
+test_FRUM_31_verify_60_frames_on_livetv_playback:
+  jira_id:
+  - FRUM-135037
+test_FRUM_35_pause_resume_4k_playback:
+  jira_id:
+  - FRUM-135037
+test_FRUM_421_toggle_4k_live_and_vod:
+  jira_id:
+  - FRUM-135037
+test_FRUM_422_toggle_4k_live_and_recording:
+  jira_id:
+  - FRUM-135037
+test_FRUM_433_voice_search_4k_asset:
+  jira_id:
+  - FRUM-135037
+test_FRUM_6_4k_socu_playback:
+  jira_id:
+  - FRUM-135037
+test_FRUM_7_playback_4k_VOD:
+  jira_id:
+  - FRUM-135037
+test_FRUM_9_switch_different_closedcaption_on_4kcontent:
+  jira_id:
+  - FRUM-135037
+test_adhoc_OTT_provider_and_functionality:
+  jira_id:
+  - FRUM-135037
+test_audio_feature:
+  jira_id:
+  - FRUM-135037
+test_availability_of_channel_signal_strength_in_stb:
+  jira_id:
+  - FRUM-135037
+test_availability_of_conditional_access_option_in_stb:
+  jira_id:
+  - FRUM-135037
+test_back_button_on_vod_playback:
+  jira_id:
+  - FRUM-135037
+test_bootup_logo:
+  jira_id:
+  - FRUM-135037
+test_bring_up_olg_and_go_down_with_ch_down_button:
+  jira_id:
+  - FRUM-135037
+test_bring_up_olg_and_press_down_button:
+  jira_id:
+  - FRUM-135037
+test_bring_up_olg_and_rapid_ch_down_button_press:
+  jira_id:
+  - FRUM-135037
+test_bring_up_olg_and_rapid_down_button_presses:
+  jira_id:
+  - FRUM-135037
+test_c11687782_to_do_list_hide_adult_content_on:
+  jira_id:
+  - FRUM-135037
+test_cablecard_decoder_option_on_stb_based_on_mode:
+  jira_id:
+  - FRUM-135037
+test_case_logger:
+  jira_id:
+  - FRUM-135037
+test_channelist_based_on_device_mode:
+  jira_id:
+  - FRUM-135037
+test_create_and_verify_bookmark_shows:
+  jira_id:
+  - FRUM-135037
+test_create_delete_future_recording_in_todolist:
+  jira_id:
+  - FRUM-135037
+test_create_delete_socu_and_non_socu_recording:
+  jira_id:
+  - FRUM-135037
+test_create_onepass_validate:
+  jira_id:
+  - FRUM-135037
+test_demo_verify_video_quality:
+  jira_id:
+  - FRUM-135037
+test_device_to_be_remain_in_standby_mode:
+  jira_id:
+  - FRUM-135037
+test_e2e_108262_verify_toggle_between_random_livetv_random_channels:
+  jira_id:
+  - FRUM-135037
+test_e2e_74353253_verify_pause_resume_modes_for_ndvr_recording:
+  jira_id:
+  - FRUM-135037
+test_e2e_74358129_verify_livetv_after_socu_playback:
+  jira_id:
+  - FRUM-135037
+test_e2e_74365226_verify_live_show_and_vod_playback:
+  jira_id:
+  - FRUM-135037
+test_e2e_74376951_verify_back_button_on_vod_playback:
+  jira_id:
+  - FRUM-135037
+test_e2e_74383986_verify_pause_replay_modes_for_livetv_show:
+  jira_id:
+  - FRUM-135037
+test_free_offer:
+  jira_id:
+  - FRUM-135037
+test_frum35583_1_verify_device_feature_search_response_in_adb_logs:
+  jira_id:
+  - FRUM-135037
+test_frum35583_2_verify_device_feature_search_op_logs:
+  jira_id:
+  - FRUM-135037
+test_frum35583_3_verify_device_feature_search_diagnostics_logs:
+  jira_id:
+  - FRUM-135037
+test_frum64672_verify_recordings_button_in_watchvideo_screen:
+  jira_id:
+  - FRUM-135037
+test_frum64673_verify_recordings_button_in_home_screen:
+  jira_id:
+  - FRUM-135037
+test_frum76506_verify_accessibility_button_in_home_screen:
+  jira_id:
+  - FRUM-135037
+test_frum76507_verify_accessibility_button_in_watchvideo_screen:
+  jira_id:
+  - FRUM-135037
+test_frum_101238_verify_grid_guide_header_title:
+  jira_id:
+  - FRUM-135037
+test_frum_115109_c219_sleep_mode_recovering_gatekeeper_api:
+  jira_id:
+  - FRUM-135037
+test_frum_115110_c228_sleep_mode_recovering_gatekeeper_api:
+  jira_id:
+  - FRUM-135037
+test_frum_115112_c219_sleep_mode_gatekeeper_api:
+  jira_id:
+  - FRUM-135037
+test_frum_115114_c228_sleep_mode_gatekeeper_api:
+  jira_id:
+  - FRUM-135037
+test_frum_117520_verify_full_info_banner_after_screensaver:
+  jira_id:
+  - FRUM-135037
+test_frum_119008_stop_recording_from_info_banner:
+  jira_id:
+  - FRUM-135037
+test_frum_119593_purchase_on_ppv_show_from_action_screen:
+  jira_id:
+  - FRUM-135037
+test_frum_122309_start_over_action_from_info_banner:
+  jira_id:
+  - FRUM-135037
+test_frum_20481_checking_guide_cell_icons_guide_rows_req:
+  jira_id:
+  - FRUM-135037
+test_frum_32627_checking_olg_tile_icons_olg_req:
+  jira_id:
+  - FRUM-135037
+test_frum_69428_disconnectedstate_recovery:
+  jira_id:
+  - FRUM-135037
+test_frum_69435_disconnectedstate_recovery_toggle:
+  jira_id:
+  - FRUM-135037
+test_frum_73629_all_shows_filter_displayed:
+  jira_id:
+  - FRUM-135037
+test_frum_73632_paused_filter_displayed:
+  jira_id:
+  - FRUM-135037
+test_frum_73633_tv_series_filter_displayed:
+  jira_id:
+  - FRUM-135037
+test_frum_73635_sports_filter_displayed:
+  jira_id:
+  - FRUM-135037
+test_frum_73639_kids_filter_displayed:
+  jira_id:
+  - FRUM-135037
+test_frum_73642_recordings_filter_displayed:
+  jira_id:
+  - FRUM-135037
+test_frum_96502_verify_banner_title_and_up_next_info:
+  jira_id:
+  - FRUM-135037
+test_frum_97188_verify_banner_title_and_up_next_info_for_past_show:
+  jira_id:
+  - FRUM-135037
+test_frum_99834_verify_forward_speed:
+  jira_id:
+  - FRUM-135037
+test_get_vmaf_score:
+  jira_id:
+  - FRUM-135037
+test_get_vqm_score:
+  jira_id:
+  - FRUM-135037
+test_goto_livetv_mtbc:
+  jira_id:
+  - FRUM-135037
+test_home_button_press:
+  jira_id:
+  - FRUM-135037
+test_home_screen:
+  jira_id:
+  - FRUM-135037
+test_launch_amazon_check_foreground_pkg:
+  jira_id:
+  - FRUM-135037
+test_launch_googleplay_check_foreground_pkg:
+  jira_id:
+  - FRUM-135037
+test_launch_hulu_check_foreground_pkg:
+  jira_id:
+  - FRUM-135037
+test_launch_netflix_check_foreground_pkg:
+  jira_id:
+  - FRUM-135037
+test_launch_starz_check_foreground_pkg:
+  jira_id:
+  - FRUM-135037
+test_launch_vudu_check_foreground_pkg:
+  jira_id:
+  - FRUM-135037
+test_live_tv_pause_time_out:
+  jira_id:
+  - FRUM-135037
+test_live_vqat:
+  jira_id:
+  - FRUM-135037
+test_livetv_health_check:
+  jira_id:
+  - FRUM-135037
+test_livetv_health_check_vt:
+  jira_id:
+  - FRUM-135037
+test_livetv_indefinite_time:
+  jira_id:
+  - FRUM-135037
+test_long_duration_audio_video_playback:
+  jira_id:
+  - FRUM-135037
+test_longevity_watch_youtube_long_hours_navigate_to_tivo_livetv:
+  jira_id:
+  - FRUM-131408
+test_mandatory_test:
+  jira_id:
+  - FRUM-135037
+test_mandatory_test_vision_tester:
+  jira_id:
+  - FRUM-135037
+test_multiple_vod_assets_playbacks_and_switching_to_live_tv_and_watching_for_multiple_hours:
+  jira_id:
+  - FRUM-135037
+test_multiple_vod_assets_playbacks_to_continue_till_end:
+  jira_id:
+  - FRUM-135037
+test_navigate_from_home_to_menu_help:
+  jira_id:
+  - FRUM-135037
+test_navigate_to_diagnostic_screen:
+  jira_id:
+  - FRUM-135037
+test_navigate_to_system_information:
+  jira_id:
+  - FRUM-135037
+test_ndvr_health_check:
+  jira_id:
+  - FRUM-135037
+test_open_guide:
+  jira_id:
+  - FRUM-135037
+test_open_menu_screen:
+  jira_id:
+  - FRUM-135037
+test_open_my_shows:
+  jira_id:
+  - FRUM-135037
+test_open_search:
+  jira_id:
+  - FRUM-135037
+test_open_vod:
+  jira_id:
+  - FRUM-135037
+test_open_w2w:
+  jira_id:
+  - FRUM-135037
+test_playback_recording:
+  jira_id:
+  - FRUM-135037
+test_plutotv_channels_health_check:
+  jira_id:
+  - FRUM-135037
+test_radio_title:
+  jira_id:
+  - FRUM-135037
+test_radio_verify_cover:
+  jira_id:
+  - FRUM-135037
+test_remote_device_option_based_on_mode:
+  jira_id:
+  - FRUM-135037
+test_restart_app_after_clear_data:
+  jira_id:
+  - FRUM-135037
+test_select_menu_help_account_system_info:
+  jira_id:
+  - FRUM-135037
+test_socu_health_check:
+  jira_id:
+  - FRUM-135037
+test_stress_testing_001_verify_stress_scenario_with_ott_exit:
+  jira_id:
+  - FRUM-135037
+test_tivoplus_channels_health_check:
+  jira_id:
+  - FRUM-135037
+test_tvescancel_and_reset:
+  jira_id:
+  - FRUM-135037
+test_verify_carousel_contains_image:
+  jira_id:
+  - FRUM-135037
+test_verify_carousel_works_wtw:
+  jira_id:
+  - FRUM-135037
+test_verify_homescreen_translated_string:
+  jira_id:
+  - FRUM-135037
+test_verify_menu_items_on_home_screen:
+  jira_id:
+  - FRUM-135037
+test_verify_program_search:
+  jira_id:
+  - FRUM-135037
+test_verify_purchase_control_with_incorrect_pin:
+  jira_id:
+  - FRUM-135037
+test_verify_search_response_is_fetched_same_from_trio_and_openAPI:
+  jira_id:
+  - FRUM-135037
+test_verify_youtube_launch_and_livetv_background_test:
+  jira_id:
+  - FRUM-135037
+test_vod_playback_after_nDVR_rec_playback:
+  jira_id:
+  - FRUM-135037
+test_x99999_demo_yukon_vt:
+  jira_id:
+  - FRUM-135037
+test_xtq_36921_verify_currency_value_is_appear_in_the_vod_content_for_rent:
+  jira_id:
+  - FRUM-135037
+test_youtube_playback:
+  jira_id:
+  - FRUM-135037
+test_yukon_server_nothrottling:
+  jira_id:
+  - FRUM-135037
+test_113775_title_series_screen_upcoming_preview:
+  jira_id:
+  - FRUM-113775
+test_FRUM_5_record_4k_content_from_Guide:
+  jira_id:
+  - FRUM-5
+test_frum_136334_tts_on_off:
+  jira_id:
+  - FRUM-136334
+test_136559_4k_socu_playback:
+  jira_id:
+  - FRUM-136559
+test_136563_playback_4k_VOD:
+  jira_id:
+  - FRUM-136563
+test_111085_web_vtt_and_vod:
+  jira_id:
+  - FRUM-111085
+test_70751_screensaver_never_pc_e2e_case:
+  jira_id:
+  - FRUM-70751
+test_bring_up_guide_and_go_down_with_ch_down_button:
+  jira_id:
+  - FRUM-142384
+test_bring_up_guide_and_press_down_button:
+  jira_id:
+  - FRUM-142385
+test_past_guide_press_play_button:
+  jira_id:
+  - FRUM-135714
+test_mind_api_optimization_adding_and_removing_package:
+  jira_id:
+  - FRUM-142379
+test_bring_up_what_to_watch:
+  jira_id:
+  - FRUM-142378
+test_bring_up_wtw_and_press_down_button:
+  jira_id:
+  - FRUM-142377
+test_bring_up_wtw_and_rapid_down_button_presses:
+  jira_id:
+  - FRUM-142383
+test_bring_up_wtw_and_rapid_right_button_presses:
+  jira_id:
+  - FRUM-142381
+test_bring_up_wtw_and_rapid_left_button_presses:
+  jira_id:
+  - FRUM-142382
+test_bring_up_wtw_and_press_left_to_bring_browse_options:
+  jira_id:
+  - FRUM-142380
+test_frum72655_reboot_on_privacy_optin:
+  jira_id:
+  - FRUM-72655
+test_22208_c610_c806_overlay_and_reconnect:
+  jira_id:
+    - FRUM-2160
+test_FRUM_136725_trickplay_actions_on_4k_socu_content:
+  jira_id:
+    - FRUM-136725
+test_140954_eas_on_parental_controls:
+  jira_id:
+    - FRUM-140954
+test_frum_141149_may_also_like_open_api_response_ui_response_comparison:
+  jira_id:
+    - FRUM-141149
+test_frum_141627_may_also_like_info_card:
+  jira_id:
+  - FRUM-141627
+test_frum_120263_stop_recording_from_info_banner:
+  jira_id:
+    - FRUM-120263
+test_past_one_line_guide_play_button_catchup:
+  jira_id:
+    - FRUM-136065
+test_frum_120264_create_one_pass_from_info_banner:
+  jira_id:
+    - FRUM-120264
+test_frum_143769_may_also_like_biaxial_strip_tts:
+  jira_id:
+    - FRUM-143769
+test_verify_qoe_events_and_attributes_for_socu_playback:
+  jira_id:
+    - FRUM-142962
+test_FRUM_22_verify_24_frames_on_ndvr_playback:
+  jira_id:
+    - FRUM-22
+test_FRUM_31_verify_60_frames_on_ndvr_playback:
+  jira_id:
+    - FRUM-31
+test_FRUM_35_pause_resume_on_ndvr_4k_playback:
+  jira_id:
+    - FRUM-35
+test_FRUM_12_closed_caption_on_ndvr_4k_channel:
+  jira_id:
+    - FRUM-12
+test_frum_143715_splunk_qoe_live_tv:
+  jira_id:
+    - FRUM-143715
+test_FRUM_144992_switch_audio_track_in_ndvr:
+  jira_id:
+    - FRUM-144992
+test_FRUM_144993_ndvr_4k_video_window_playback:
+  jira_id:
+    - FRUM-144993
+test_FRUM_111175_block_guide_service_and_recover_verify_guide_screen:
+  jira_id:
+    - FRUM-111175
+test_FRUM_144213_block_guide_service_and_verify_socu_playback_on_channel:
+  jira_id:
+    - FRUM-144213
+test_FRUM_144216_block_guide_service_and_verify_livetv_channel_switch_and_playback:
+  jira_id:
+    - FRUM-144216

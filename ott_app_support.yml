@@ -1,0 +1,104 @@
+Acorn_TV:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_acorntv
+AllBlk:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_allblk
+Amazon:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_amazon
+AmazonCS:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_amazon
+discovery+:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_discoveryplus
+Disney+:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_disneyplus
+EPIX:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_epix
+Freevee:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_imdbtv
+HBO MAX:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_hbomax
+GooglePlay:
+  jump_channel: False
+  deeplink: True
+  webkit: NA
+Hulu:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_hulu_msocatalog
+Netflix:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_netflix
+Paramount+:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_paramountplus
+PBS:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_pbs
+PBSKids:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_pbskids
+Peacock (free):
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_peacock 
+Peacock Premium:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_peacock_premium
+Pluto TV:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_plutotv
+Amazon:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_amazon
+Showtime Anytime:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_showtime_catalog
+Shudder:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_shudder
+STARZ:
+  jump_channel: False
+  deeplink: True
+  webkit: NA
+Sundance Now:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_sundance
+TUBITV:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_tubitv
+VUDU:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_vudu
+YouTube:
+  jump_channel: True
+  deeplink: True
+  webkit: DG_webkit_youtube
