@@ -1,0 +1,64 @@
+# @tsn=tsn:A9F0000023EE683
+@tsn=tsn:<FILL IN TSN>
+@deviceType=managedAndroidTv
+# @msoName=CableCo11
+@msoName=<FILL IN MSO NAME>
+@authServiceHost=http://authservice-staging.tpa1.tivo.com:50240
+@slsHost=https://production-canary.sls.prod.tivoservice.com
+
+### 
+# @name authenticationConfigurationSearch
+@domain={{authenticationConfigurationSearch.response.body.authenticationConfiguration[0].domain}}
+POST {{authServiceHost}}/authenticationConfigurationSearch
+Accept : application/json
+Content-Type: application/json
+ApplicationName: api-testing
+SchemaVersion: 40
+
+{
+    "deviceConfiguration": {
+        "deviceType": "{{deviceType}}",
+        "type": "deviceConfiguration"
+    },
+    "msoName": "{{msoName}}",
+    "type": "authenticationConfigurationSearch"
+}
+
+###
+# @name liteLogin
+@authToken={{liteLogin.response.body.$.accessToken}}
+POST {{authServiceHost}}/liteLogin
+Accept : application/json
+Content-Type: application/json
+ApplicationName: UTAF_VS_Rest_Client
+SchemaVersion: 40
+
+{
+    "bodyId": "{{tsn}}",
+    "domain": "{{domain}}",
+    "type": "liteLogin"
+}
+
+###
+# @name feeditems_service
+@feeditems_service_host={{feeditems_service.response.body.$.serviceEndpoints[0].hostname}}
+GET {{slsHost}}/serviceEndpoints/feeditems-service
+Accept : application/json
+ApplicationName: UTAF_VS_Rest_Client
+BodyId: {{tsn}}
+
+####
+# @name feeditems_service_screens
+GET https://{{feeditems_service_host}}/v1/feeds/screens?screensCount=10&pageCursor=
+BodyId: {{tsn}}
+Accept: application/json
+Accept-Language: *
+ApplicationName: UTAF_VS_Rest_Client
+ApplicationFeatureArea: UTAF_VS_Rest_Client
+ApplicationVersion: UTAF_VS_Rest_Client
+DeviceType: {{deviceType}}
+x-amzn-RequestId: request-{{$timestamp}}
+Origin-RequestId: request-{{$timestamp}}
+ProductName: UTAF_VS_Rest_Client
+Authorization: {{authToken}}
+

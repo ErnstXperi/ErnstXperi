@@ -1,0 +1,63 @@
+@tsn=tsn:place_TSN_instead_of_this_text
+@deviceType=place_device_type_instead_of_this_text
+@msoName=place_mso_name_instead_of_this_text
+# offerId looks like this ivo%3Aof.std.10420240.2023-03-15-16-30-00.1800
+@offerId=tivo%3Aof.std.10420240.2023-03-15-16-30-00.1800
+# One of actionScreen, guideHeader, guideRecordOverlay, oneLineGuide, liveTvBanner, fullBanner
+@screenType=fullBanner
+
+@authServiceHost=http://authservice-staging.tpa1.tivo.com:50240
+@slsHost=https://production-canary.sls.prod.tivoservice.com
+
+### 
+# @name authenticationConfigurationSearch
+@domain={{authenticationConfigurationSearch.response.body.authenticationConfiguration[0].domain}}
+POST {{authServiceHost}}/authenticationConfigurationSearch
+Accept : application/json
+Content-Type: application/json
+ApplicationName: UTAF_VS_Rest_Client
+SchemaVersion: 40
+
+{
+    "deviceConfiguration": {
+        "deviceType": "{{deviceType}}",
+        "type": "deviceConfiguration"
+    },
+    "msoName": "{{msoName}}",
+    "type": "authenticationConfigurationSearch"
+}
+
+###
+# @name liteLogin
+@authToken={{liteLogin.response.body.$.accessToken}}
+POST {{authServiceHost}}/liteLogin
+Accept : application/json
+Content-Type: application/json
+ApplicationName: UTAF_VS_Rest_Client
+SchemaVersion: 40
+
+{
+    "bodyId": "{{tsn}}",
+    "domain": "{{domain}}",
+    "type": "liteLogin"
+}
+
+###
+# @name previewEndpoint
+@preview-host={{previewEndpoint.response.body.serviceEndpoints[0].hostname}}
+GET {{slsHost}}/serviceEndpoints/cloudcore-previews
+Accept : application/json
+ApplicationName: UTAF_VS_Rest_Client
+BodyId: {{tsn}}
+
+###
+https://{{preview-host}}/v1/preview/offer/{{offerId}}?screenType={{screenType}}
+BodyId: {{tsn}}
+Accept: application/json
+ApplicationName: UTAF_VS_Rest_Client
+ApplicationFeatureArea: UTAF_VS_Rest_Client
+ApplicationVersion: UTAF_VS_Rest_Client
+DeviceType: {{deviceType}}
+Origin-RequestId: request-{{$timestamp}}
+ProductName: UTAF_VS_Rest_Client
+Authorization: {{authToken}}

@@ -1,0 +1,65 @@
+@tsn=tsn:place_TSN_instead_of_this_text
+@deviceType=place_device_type_instead_of_this_text
+@msoName=place_mso_name_instead_of_this_text
+
+@authServiceHost=http://authservice-staging.tpa1.tivo.com:50240
+@slsHost=https://production-canary.sls.prod.tivoservice.com
+
+### 
+# @name authenticationConfigurationSearch
+@domain={{authenticationConfigurationSearch.response.body.authenticationConfiguration[0].domain}}
+POST {{authServiceHost}}/authenticationConfigurationSearch
+Accept : application/json
+Content-Type: application/json
+ApplicationName: UTAF_VS_Rest_Client
+SchemaVersion: 40
+
+{
+    "deviceConfiguration": {
+        "deviceType": "{{deviceType}}",
+        "type": "deviceConfiguration"
+    },
+    "msoName": "{{msoName}}",
+    "type": "authenticationConfigurationSearch"
+}
+
+###
+# @name liteLogin
+@authToken={{liteLogin.response.body.$.accessToken}}
+POST {{authServiceHost}}/liteLogin
+Accept : application/json
+Content-Type: application/json
+ApplicationName: UTAF_VS_Rest_Client
+SchemaVersion: 40
+
+{
+    "bodyId": "{{tsn}}",
+    "domain": "{{domain}}",
+    "type": "liteLogin"
+}
+
+###
+# @name channelsIptvEndpoint
+GET {{slsHost}}/doClient?type=slsServiceEndpointGet
+Content-Type: application/json
+Accept: application/json
+
+{
+"bodyId": "{{tsn}}",
+"type": "slsServiceEndpointGet",
+"service": "channels-iptv"
+}
+
+###
+# @name v1Channels
+GET https://{{channelsIptvEndpoint.response.body.endpoint.hostname}}/v1/channels
+BodyId: {{tsn}}
+Accept: application/json
+ApplicationName: UTAF_VS_Rest_Client
+ApplicationFeatureArea: UTAF_VS_Rest_Client
+ApplicationVersion: UTAF_VS_Rest_Client
+DeviceType: {{deviceType}}
+x-amzn-RequestId: request-{{$timestamp}}
+Origin-RequestId: request-{{$timestamp}}
+ProductName: UTAF_VS_Rest_Client
+Authorization: {{authToken}}

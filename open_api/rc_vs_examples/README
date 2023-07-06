@@ -1,0 +1,4 @@
+Examples are provided for Rest Client in Visual Studio:
+https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+
+Set params on the top of the file (deviceType, tsn, msoName etc. and run the request)
